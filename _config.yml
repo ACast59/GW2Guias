@@ -16,5 +16,4 @@ paginate_path:          '/pagina:num'
 
 # Permalinks
 permalink:              pretty
-relative_permalinks:    true
 url:                    https://acast59.github.io/GW2Guias/
