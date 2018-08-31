@@ -113,7 +113,7 @@
                 </div>
                 
                 <div class="level-right">
-                  <div class="level-item"><i class="icon-calendar"></i> <time class="timeago" datetime="{{ post.date }}">hace 1 minuto</time></div>
+                  <div class="level-item"><i class="icon-calendar"></i> <time class="timeago" datetime="{{ post.date }}">{{ post.date }}</time></div>
                 </div>
               </div>
             </article>
@@ -147,10 +147,10 @@
                     <div class="level is-mobile">
                       <div class="level-left">
                         <div class="level-item">
-                          <img src="{{ post.image }}" alt="{{ post.title }}" width="35"> por ACast59
+                          <img src="{{ "/assets/img/avatar.jpg" | relative_url }}" alt="{{ post.title }}" width="35"> por ACast59
                         </div>
                       </div>
-                      <div class="level-right"><time class="timeago" datetime="{{ post.date }}">hace 1 minuto</time></div>
+                      <div class="level-right"><time class="timeago" datetime="{{ post.date }}">{{ post.date }}</time></div>
                     </div>									
                   </div>
                   
