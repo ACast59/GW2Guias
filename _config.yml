@@ -1,3 +1,20 @@
-title: GW2Guias
-description: 'Guias para Guild Wars 2'
-permalink: pretty
+# Dependencies
+markdown:               redcarpet
+highlighter:            pygments
+
+# Setup
+title:                  GW2Guias
+description:            'Guias para Guild Wars 2'
+
+author:
+  name:                 'Angel Castillo'
+  url:                  https://steamcommunity.com/id/ACast59/
+  introduction:         'Just a newbie web dev / long time gamer.'
+  
+paginate:               5
+paginate_path:          '/pagina:num'
+
+# Permalinks
+permalink:              pretty
+relative_permalinks:    true
+url:                    https://acast59.github.io/GW2Guias/
