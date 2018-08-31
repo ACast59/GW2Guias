@@ -5,67 +5,7 @@
   </head>
   <body>
     <header>
-      <div class="affbar" style="background-image: url('{{ '/assets/img/farcry5.jpg' | relative_url }}');">
-        <div class="affbar-overlay"></div>
-        
-        <div class="affbar-content">
-          <a href="#">
-            <span class="is-hidden is-visible-mobile">
-              Ver Promociones
-            </span>
-            
-            <span class="is-hidden-mobile">
-              Get GOD EATER 2: Rage Burst, Deus Ex: Manking Divided, and Mafia III + Mafia III: Signs of the Times when you subscribe for just $12.
-            </span>
-          </a>
-        </div>
-        <a href="javascript:void(0)" class="affbar-close"><i class="icon-close"></i></a>
-      </div>
-      
-      <div class="topbar is-hidden-mobile">
-        <div class="container">
-          <div class="level">
-            <div class="level-left">
-              <div class="level-item">
-                <i><span class="icon-tip"></span> Sabias que...</i>
-              </div>
-            </div>
-            
-            <div class="level-right">
-              <div class="level-item">
-                <a href="" target="_blank"><i class="icon-facebook"></i></a>
-                <a href="" target="_blank"><i class="icon-gplus"></i></a>
-                <a href="" target="_blank"><i class="icon-twitter"></i></a>
-                <a href="" target="_blank"><i class="icon-rss"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="navbar">
-        <div class="container">
-          <div class="level is-mobile">
-            <div class="level-left">
-              <div class="level-item">
-                <h1 class="logo">
-                  <a href="{{ "/" | absolute_url }}" title="GW2Guias"><span>GW2</span>Guias</a>
-                </h1>
-              </div>
-            </div>
-            
-            <nav class="level-right is-hidden-mobile">
-              <div class="level-item"><a href="{{ "/" | absolute_url }}">Inicio</a></div>
-              <div class="level-item"><a href="guides.html">Guias</a></div>
-              <div class="level-item"><a href="promociones.html">Promociones</a></div>
-            </nav>
-            
-            <div class="level-right is-hidden is-visible-mobile">
-              <div class="level-item"><a onclick="openMobileMenu()" class="mobile-menu-open"><i class="icon-menu icon-2x"></i></a></div>
-            </div>
-          </div>
-        </div>
-      </div>
+      {% include header.html %}
     </header>
     
     <div class="container">
@@ -153,102 +93,19 @@
         
         <div class="is-column-medium-2-6">
           <aside class="sidebar">
-            <div class="widget">						
-              <div class="widget-content">
-                <div class="field has-addons">
-                  <div class="control is-expanded">
-                    <input class="input" type="text" placeholder="Buscar...">
-                  </div>
-                  
-                  <div class="control">
-                    <a class="button">
-                      <i class="icon-search"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            
-            <div class="widget widget-highlighted">
-              <h4>
-                <span>
-                  <span>Widget</span> #1
-                </span>
-              </h4>
-              
-              <div class="widget-content">
-                <p>Contenido</p>
-              </div>
-            </div>
+            {% include sidebar.html %}
           </aside>
         </div>
       </div>
     </div>
     
     <footer>
-      <div class="pre-footer">
-        <div class="container">
-          <div class="columns">
-            <div class="is-column-medium-1-2">
-              <h5><span>Sobre</span> GW2Guias</h5>
-              
-              <p class="site-description">En GW2Guias podras encontrar las mejores guias para Guild Wars 2. Guias para profesiones, artesanias, maestrias, mazmorras, fractals, escuadrones, PvP, Mundo vs Mundo, logros, contenido secreto, consejos y mucho mas!</p>
-            </div>
-            
-            <div class="is-column-medium-1-2">
-              <h5><span>Te</span> Recomendamos</h5>
-              
-              <p class="recommended-text">Para una navegacion web optima te recomendamos el uso de los ultimos navegadores web, no solo mejoraras tu experiencia, tambien mejoraras tu seguridad.</p>
-              
-              <div class="recommended-browsers">
-                <a href=""><i class="icon-firefox"></i></a>
-                <a href=""><i class="icon-chrome"></i></a>
-                <a href=""><i class="icon-safari"></i></a>
-                <a href=""><i class="icon-opera"></i></a>
-                <a href=""><i class="icon-edge"></i></a>
-              </div>
-            </div>
-            
-            <div class="is-column-small-1-1">
-              <h5><span>Legal</span> Disclaimer</h5>
-              
-              <p>© 2010–<script>document.write(new Date().getFullYear());</script> ArenaNet, LLC. Todos los derechos reservados. Guild Wars, Guild Wars 2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, ArenaNet, NCSOFT, el logo con las NC entrelazadas, y todos los logos y diseños asociados son marcas o marcas registradas de NCsoft Corp. El resto de marcas son propiedad de sus respectivos dueños.</p>
-            </div>
-          </div>
-        </div>
-      </div>					
-      
-      <div class="main-footer">
-        <div class="container">
-          <div class="level">
-            <div class="level-left">
-              <div class="level-item">
-                Copyright &#169; <script>document.write(new Date().getFullYear());</script> GW2Guias
-              </div>
-            </div>
-            
-            <div class="level-right">
-              <div class="level-item">
-                <a href="colabora.html">Publicidad</a>
-                <a href="privacidad.html">Contacto</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      {% include footer.html %}
     </footer>
     
     <a href="javascript:void(0)" class="back-to-top" title="Ir arriba"><i class="icon-up"></i></a>
     
-    <div id="mobile-menu" class="off-canvas">
-      <a href="javascript:void(0)" class="close-off-canvas" onclick="closeMobileMenu()">&times;</a>
-      
-      <nav class="mobile-navigation">
-        <div><a href="{{ "/" | absolute_url }}"><i class="icon-home"></i> Inicio</a></div>
-        <div><a href="guides.html"><i class="icon-guide"></i> Guias</a></div>
-        <div><a href="promociones.html"><i class="icon-promotions"></i> Promociones</a></div>
-      </nav>
-    </div>
+    {% include footer_mobile.html %}
     
     {% if site.google_analytics %}
     <script>
