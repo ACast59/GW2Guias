@@ -4,12 +4,11 @@ title: Categorias
 ---
 
 <div class="site-tags">
-  <div class="tag-list" style="margin-bottom: 15px;">
+  <div class="tag-list" style="border-bottom:1px solid #ddd;">
     {% for tag in site.categories %}
     <a href="#{{ tag[0] | slugify }}" style="background: #333;color: #fff;padding: 5px 10px;border-radius: 2px;"><i class="icon-calendar"></i> {{ tag[0] | capitalize }}</a>
     {% endfor %}
   </div>
-  <hr style="border-style: solid!important;border-color: #ddd;" />
   <div class="tag-posts">
     {% for tag in site.categories %}
     <h3 id="{{ tag[0] | slugify }}" style="color: #333;font-size: 30px;">{{ tag[0] | capitalize }}</h3>
