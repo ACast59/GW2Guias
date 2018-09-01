@@ -4,21 +4,21 @@ title: Etiquetas
 ---
 
 <div class="site-tags">
-  <div class="tag-list" style="padding-bottom: 15px;border-bottom:1px solid #ddd;margin-bottom: 15px;">
+  <div class="tag-list">
     {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}" style="background: #333;color: #fff;padding: 5px 10px;border-radius: 2px;"><i class="icon-calendar"></i> {{ tag[0] | capitalize }}</a>
+    <a href="#{{ tag[0] | slugify }}"><i class="icon-calendar"></i> {{ tag[0] | capitalize }}</a>
     {% endfor %}
   </div>
   <div class="tag-posts">
     {% for tag in site.tags %}
-    <h3 id="{{ tag[0] | slugify }}" style="color: #333;font-size: 30px;">{{ tag[0] | capitalize }}</h3>
-    <ul class="tag-posts-tagged" style="list-style-type: square;">
+    <h3 id="{{ tag[0] | slugify }}">{{ tag[0] | capitalize }}</h3>
+    <ul class="tag-posts-tagged">
       {% for post in tag[1] %}
         <a href="{{ site.baseurl }}{{ post.url }}">
-      <li style="font-size: 18px;">
-        {{ post.title }}
-      </li>
-      </a>
+          <li>
+            {{ post.title }}
+          </li>
+        </a>
       {% endfor %}
     </ul>
     {% endfor %}
