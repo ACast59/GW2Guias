@@ -2389,7 +2389,12 @@ header {
   margin-bottom: 35px;
 }
 
-.post-tags {}
+.post-tags {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+}
 
 .post-tags a {
   background: #333;
