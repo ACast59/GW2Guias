@@ -5,7 +5,7 @@ layout: default
 <ul class="breadcrumbs is-hidden-mobile">
   <li><a href="index.html">Home</a></li>
   <li><i class="icon-right"></i></li>
-  <li><a href="#">{{ page.categories }}</a></li>
+  <li><a href="{{ site.url }}{{ site.category_page }}#{{ page.categories }}">{{ page.categories }}</a></li>
   <li><i class="icon-right"></i></li>
   <li><span>{{ page.title }}</span></li>
 </ul>
