@@ -6,7 +6,7 @@ title: Categorias
 <div class="site-tags">
   <div class="site-tags-list">
     {% for tag in site.categories %}
-    <a href="#{{ tag[0] | slugify }}" class="" style="background: #333;color: #fff;padding: 5px 10px;border-radius: 2px;">{{ tag[0] }}</a>
+    <a href="#{{ tag[0] | slugify }}" class="" style="background: #333;color: #fff;padding: 5px 10px;border-radius: 2px;"><i class="icon-calendar"></i> {{ tag[0] }}</a>
     {% endfor %}
   </div>
   <hr/>
