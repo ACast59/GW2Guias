@@ -36,6 +36,12 @@ layout: default
         <div class="post-content">
           {{ page.content }}
         </div>
+        
+        <div class="">
+          {% for category in categories %}
+            <a href="#{{ category | slugify }}"> {{ category }} </a>
+          {% endfor %}
+        </div>
 							
         <div class="post-share">
           <div class="level is-mobile">
