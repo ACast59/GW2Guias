@@ -2541,6 +2541,36 @@ header {
 
 .page-content {}
 
+/*-------------------------------------------------------------*/
+/* ## Category and Tag Pages
+/*-------------------------------------------------------------*/
+
+.site-tags .tag-list {
+  padding-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 15px; 
+}
+
+.site-tags .tag-list a {
+  background: #333;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 2px;
+}
+
+.site-tags .tag-posts h3 {
+  color: #333;
+  font-size: 30px;
+}
+
+.site-tags .tag-posts .tag-posts-tagged {
+  list-style-type: square;
+}
+
+.site-tags .tag-posts .tag-posts-tagged a li {
+  font-size: 18px;
+}
+
 /*---------------------------------------------*/
 /* ## 404 Page
 /*---------------------------------------------*/
