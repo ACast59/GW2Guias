@@ -2523,6 +2523,13 @@ header {
 
 .page-body {}
 
+.page-image {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
 .page-title {
   font-family: Montserrat, sans-serif;
   font-weight: 600;
