@@ -13,8 +13,10 @@ layout: default
 <div class="columns">
   <div class="is-column-medium-1-1 is-column-large-4-6">
     <main class="page">
-      <article class="page-body">		
+      <article class="page-body">
+        {% if page.image %} 
         <img class="page-image" src="{{ site.url }}{{ page.image }}" alt="{{ page.title }}">
+        {% endif %} 
         
         <h2 class="page-title">
           {{ page.title }}
