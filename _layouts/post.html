@@ -40,7 +40,7 @@ layout: default
         <div class="post-tags">
           {% for tag in page.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="{{ site.url }}{{ site.tag_page }}#{{ tag_name }}"><i class="icon-guide"></i> {{ tag_name }}</a>
+            <a href="{{ site.url }}{{ site.tag_page }}#{{ tag_name }}"><i class="icon-guide"></i>{{ tag_name }}</a>
           {% endfor %}
         </div>
 							
