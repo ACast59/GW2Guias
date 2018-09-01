@@ -1,0 +1,90 @@
+---
+layout: default
+---
+
+<ul class="breadcrumbs is-hidden-mobile">
+  <li><a href="index.html">Home</a></li>
+  <li><i class="icon-right"></i></li>
+  <li><a href="#">Promociones</a></li>
+  <li><i class="icon-right"></i></li>
+  <li><span>{{ post.title }}</span></li>
+</ul>
+
+<div class="columns">
+  <div class="is-column-medium-1-1 is-column-large-4-6">
+    <main class="post">
+      <article class="post-body">		
+        <img class="post-image" src="{{ post.image }}" alt="{{ post.title }}">
+        
+        <h2 class="post-title">
+          {{ post.title }}
+        </h2>
+        
+        <div class="post-by">
+          <div class="level is-mobile">
+            <div class="level-left">
+              <div class="level-item">
+                <img src="{{ "/assets/img/avatar.jpg" | relative_url }}" alt="{{ post.title }}" width="35"> por ACast59
+              </div>
+            </div>
+            <div class="level-right">
+              <time class="timeago" datetime="{{ post.date }}">{{ post.date }}</time>
+            </div>
+          </div>                                    
+        </div>
+        
+        <div class="post-content">
+          {{ content }}
+        </div>
+							
+        <div class="post-share">
+          <div class="level is-mobile">
+            <div class="level-left">
+              <div class="level-item">
+                Compartelo:
+              </div>
+            </div>
+            
+            <div class="level-right">
+              <div class="level-item">
+                <ul>
+                  <li>
+                    <a href="https://www.facebook.com/sharer.php?u={{ post.url }}">
+                      <i class="icon-facebook icon-2x"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://twitter.com/share?url={{ post.url }}&text={{ post.title }}&via=GW2Guias">
+                      <i class="icon-twitter icon-2x"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://plus.google.com/share?url={{ post.url }}">
+                      <i class="icon-gplus icon-2x"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>    
+        </div>
+        
+        <h3 class="latest-comments">
+          <span>
+            <span class="disqus-comment-count" data-disqus-url="{{ post.url }}">0</span> Comentarios
+          </span>
+        </h3>
+        
+        Comments...
+      </article>
+    </main>
+  </div>
+  
+  <div class="is-column-medium-1-1 is-column-large-2-6">
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+  </div>
+</div>
