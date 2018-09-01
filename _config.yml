@@ -8,5 +8,5 @@ author:
 paginate:               5
 paginate_path:          '/pagina:num'
 permalink:              /:categories/:title/
-baseurl:                ""
+baseurl:                "/"
 url:                    https://acast59.github.io/GW2Guias
