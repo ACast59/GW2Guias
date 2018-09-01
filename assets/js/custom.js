@@ -58,14 +58,14 @@ function closeMobileMenu() {
 $(document).ready(function(){
 	jQuery("time.timeago").timeago();
     
-	//$affbar-deals = Cookies.get('affbar-deals');
-	//if (!$affbar-deals) {
+	$affbar-deals = Cookies.get('affbar-deals');
+	if (!$affbar-deals) {
 		$(".affbar").slideDown("slow");
 		$(".affbar-close").click(function(){
-			//Cookies.set('affbar-deals', '1');
+			Cookies.set('affbar-deals', '1');
 			$(".affbar").slideUp("slow");
 		});
-	//}
+	}
 	
 	if ($('.back-to-top').length) {
 		var scrollTrigger = 500,
