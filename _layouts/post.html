@@ -14,7 +14,7 @@ layout: default
   <div class="is-column-medium-1-1 is-column-large-4-6">
     <main class="post">
       <article class="post-body">		
-        <img class="post-image" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+        <img class="post-image" src="{{ site.url }}{{ page.image }}" alt="{{ page.title }}">
         
         <h2 class="post-title">
           {{ page.title }}
@@ -24,7 +24,7 @@ layout: default
           <div class="level is-mobile">
             <div class="level-left">
               <div class="level-item">
-                <img src="{{ "/assets/img/avatar.jpg" | relative_url }}" alt="{{ page.title }}" width="35"> por ACast59
+                <img src="{{ "/assets/img/avatar.jpg" | absolute_url }}" alt="{{ page.title }}" width="35"> por ACast59
               </div>
             </div>
             <div class="level-right">
@@ -49,19 +49,19 @@ layout: default
               <div class="level-item">
                 <ul>
                   <li>
-                    <a href="https://www.facebook.com/sharer.php?u={{ site.baseurl }}{{ page.url }}">
+                    <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}">
                       <i class="icon-facebook icon-2x"></i>
                     </a>
                   </li>
                   
                   <li>
-                    <a href="https://twitter.com/share?url={{ site.baseurl }}{{ page.url }}&text={{ page.title }}&via=GW2Guias">
+                    <a href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=GW2Guias">
                       <i class="icon-twitter icon-2x"></i>
                     </a>
                   </li>
                   
                   <li>
-                    <a href="https://plus.google.com/share?url={{ site.baseurl }}{{ page.url }}">
+                    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}">
                       <i class="icon-gplus icon-2x"></i>
                     </a>
                   </li>
@@ -73,7 +73,7 @@ layout: default
         
         <h3 class="latest-comments">
           <span>
-            <span class="disqus-comment-count" data-disqus-url="{{ page.url }}">0</span> Comentarios
+            <span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ page.url }}">0</span> Comentarios
           </span>
         </h3>
         
