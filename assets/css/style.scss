@@ -2389,6 +2389,14 @@ header {
   margin-bottom: 35px;
 }
 
+.post-tags {}
+
+.post-tags a {
+  background: #333;
+  padding: 5px 10px;
+  border-radius: 2px;
+}
+
 .post-body .panel .panel-heading {
   background-color: #282828;
   font-family: Montserrat, sans-serif;
