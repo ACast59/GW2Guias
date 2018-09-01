@@ -2,7 +2,34 @@
 layout: default
 ---
 
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
+<ul class="breadcrumbs is-hidden-mobile">
+  <li><a href="index.html">Home</a></li>
+  <li><i class="icon-right"></i></li>
+  <li><a href="#">Promociones</a></li>
+  <li><i class="icon-right"></i></li>
+  <li><span>{{ page.title }}</span></li>
+</ul>
+
+<div class="columns">
+  <div class="is-column-medium-1-1 is-column-large-4-6">
+    <main class="page">
+      <article class="page-body">		
+        <img class="page-image" src="{{ site.url }}{{ page.image }}" alt="{{ page.title }}">
+        
+        <h2 class="page-title">
+          {{ page.title }}
+        </h2>
+        
+        <div class="page-content">
+          {{ page.content }}
+        </div>
+      </article>
+    </main>
+  </div>
+  
+  <div class="is-column-medium-1-1 is-column-large-2-6">
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+  </div>
 </div>
