@@ -13,7 +13,7 @@ title: Categorias
   <div class="tag-posts">
     {% for tag in site.categories %}
     <h3 id="{{ tag[0] | slugify }}" style="color: #333;font-size: 30px;">{{ tag[0] | capitalize }}</h3>
-    <ul class="tag-posts-tagged">
+    <ul class="tag-posts-tagged" style="list-style: none;">
       {% for post in tag[1] %}
         <a href="{{ site.baseurl }}{{ post.url }}">
       <li style="font-size: 18px;">
