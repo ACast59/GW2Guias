@@ -38,7 +38,10 @@ layout: default
         </div>
         
         <div class="">
-          <a href="{{ site.url }}{{ site.tag_page }}#{{ page.tags }}">{{ page.tags }}</a>
+          {% for tag in page.tags %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            <a href="{{ site.url }}{{ site.tag_page }}#{{ tag_name }}">{{ tag_name }}</a>
+          {% endfor %}
         </div>
 							
         <div class="post-share">
