@@ -38,9 +38,7 @@ layout: default
         </div>
         
         <div class="">
-          {% for tag in tags %}
-            <a href="#{{ tag | slugify }}">{{ tag }}</a>
-          {% endfor %}
+          <a href="{{ site.url }}{{ site.tag_page }}#{{ page.tags }}">{{ page.tags }}</a>
         </div>
 							
         <div class="post-share">
