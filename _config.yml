@@ -7,8 +7,6 @@ author:
   introduction:         'Just a newbie web dev / long time gamer.'  
 paginate:               5
 paginate_path:          '/pagina:num'
-permalink:              pretty
-baseurl:                "/"
+permalink:              /:categories/:title/
+baseurl:                ""
 url:                    https://acast59.github.io/GW2Guias
-tag_page:               '/etiquetas/'
-category_page:          '/categorias/'
