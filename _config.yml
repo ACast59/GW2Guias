@@ -9,4 +9,4 @@ paginate:               5
 paginate_path:          '/pagina:num'
 permalink:              pretty
 baseurl:                "/"
-url:                    https://acast59.github.io/GW2Guias/
+url:                    https://acast59.github.io/GW2Guias
