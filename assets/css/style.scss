@@ -2577,6 +2577,10 @@ header {
   border-radius: 2px;
 }
 
+.site-tags .tag-list a:hover {
+  background: #555;
+}
+
 .site-tags .tag-posts h3 {
   color: #333;
   font-size: 30px;
