@@ -6,12 +6,12 @@ title: Etiquetas
 <div class="site-tags">
   <div class="tag-list">
     {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}"><i class="icon-guide"></i> {{ tag[0] | capitalize }}</a>
+    <a href="#{{ tag[0] | capitalize }}"><i class="icon-guide"></i> {{ tag[0] | capitalize }}</a>
     {% endfor %}
   </div>
   <div class="tag-posts">
     {% for tag in site.tags %}
-    <h3 id="{{ tag[0] | slugify }}">{{ tag[0] | capitalize }}</h3>
+    <h3 id="{{ tag[0] | capitalize }}">{{ tag[0] | capitalize }}</h3>
     <ul class="tag-posts-tagged">
       {% for post in tag[1] %}
         <a href="{{ site.baseurl }}{{ post.url }}">
