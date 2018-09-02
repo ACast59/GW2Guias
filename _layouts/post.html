@@ -41,7 +41,8 @@ layout: default
         <div class="post-content">
           {{ page.content }}
         </div>
-	
+        
+        {% if page.categories contains "Guias" %}
         <div class="post-tags">
           Etiquetas:
           {% for tag in page.tags %}
@@ -49,6 +50,7 @@ layout: default
           <a href="{{ site.url }}{{ site.tag_page }}#{{ tag_name | downcase }}"><i class="icon-guide"></i>{{ tag_name }}</a>
           {% endfor %}
         </div>
+        {% endif %}
 	
         <div class="post-share">
           <div class="level is-mobile">
