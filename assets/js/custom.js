@@ -58,11 +58,11 @@ function closeMobileMenu() {
 $(document).ready(function(){
   jQuery("time.timeago").timeago();
    
-  var $affbar_deals = Cookies.get('affdeals');
+  var $affbar_deals = Cookies.get('affbar-deals');
   if (!$affbar_deals) {
-    $(".affbar").slideDown("slow");
+    $(".affbar").delay(1500).slideDown("slow");
     $(".affbar-close").click(function(){
-      Cookies.set('affdeals', '1');
+      Cookies.set('affbar-deals', '1');
       $(".affbar").slideUp("slow");
     });
   }
