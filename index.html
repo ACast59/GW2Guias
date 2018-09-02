@@ -53,7 +53,6 @@ layout: default
       
       <div class="columns columns-medium">
         {% for post in paginator.posts %}
-        {% unless post.category == "Noticias" %}
         <div class="is-column-small-1-2">
           <article class="guide">
             <a href="{{ site.baseurl }}{{ post.url }}" class="guide-link">
@@ -82,34 +81,33 @@ layout: default
             <a href="{{ site.baseurl }}{{ post.url }}" class="guide-button">Leer Guia</a>
           </article>
         </div>
-        {% endunless %}
         {% endfor %}
         
         <!-- Pagination links -->
         <div class="is-column-small-1-1">
-        <div class="pagination">
-          {% if paginator.previous_page %}
-          <div class="align-left">
-            <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">
-              Previous
-            </a>
-          </div>
-          {% else %}
+          <div class="pagination">
+            {% if paginator.previous_page %}
+            <div class="align-left">
+              <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">
+                Previous
+              </a>
+            </div>
+            {% else %}
             <div class="align-left">
               <span class="previous">Previous</span>
             </div>
-          {% endif %}
-          
-          {% if paginator.next_page %}
-          <div class="align-right">
-            <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">Next</a>
+            {% endif %}
+            
+            {% if paginator.next_page %}
+            <div class="align-right">
+              <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">Next</a>
+            </div>
+            {% else %}
+            <div class="align-right">
+              <span class="next">Next</span>
+            </div>
+            {% endif %}
           </div>
-          {% else %}
-          <div class="align-right">
-            <span class="next">Next</span>
-          </div>
-          {% endif %}
-        </div>
         </div>
       </div>
     </main>
