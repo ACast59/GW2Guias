@@ -11,7 +11,7 @@ layout: default
   
   <div class="columns columns-medium">
     {% for category in site.categories %}
-    {% for post in category[1] %}
+    {% for post in category[3] %}
     <div class="is-column-small-1-2 is-column-large-1-4">
       <article class="promotion">
         <a href="{{ site.baseurl }}{{ post.url }}" class="promotion-link">
