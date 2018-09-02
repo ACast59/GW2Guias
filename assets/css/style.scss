@@ -2659,6 +2659,10 @@ header {
   margin-top: 20px;
 }
 
+.pagination span {
+ cursor: not-allowed; 
+}
+
 .pagination span,
 .pagination a {
   background: #333;
