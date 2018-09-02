@@ -27,25 +27,25 @@
   };
 }));
 
-/*window.addEventListener("load", function(){
-	window.cookieconsent.initialise({
-		"palette": {
-			"popup": {
-				"background": "#000"
-			},
-			"button": {
-				"background": "#dd163b"
-			}
-		},
-		"theme": "edgeless",
-		"content": {
-			"message": "Este sitio web usa cookies para mejorar la experiencia de navegación.",
-			"dismiss": "Entiendo!",
-			"link": "Leer mas...",
-			"href": "http://politicadecookies.com/"
-		}
-	})
-});*/
+window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#000"
+      },
+      "button": {
+        "background": "#dd163b"
+      }
+    },
+    "theme": "edgeless",
+    "content": {
+      "message": "Este sitio web usa cookies para mejorar la experiencia de navegación.",
+      "dismiss": "Entiendo!",
+      "link": "Leer mas...",
+      "href": "http://politicadecookies.com/"
+    }
+  })
+});
 
 function openMobileMenu() {
   document.getElementById("mobile-menu").style.width = "250px";
