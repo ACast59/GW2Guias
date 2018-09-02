@@ -82,6 +82,8 @@ layout: default
             <a href="{{ site.baseurl }}{{ post.url }}" class="guide-button">Leer Guia</a>
           </article>
         </div>
+        {% else %}
+          {% continue %}
         {% endif %}
         {% endfor %}
       </div>
