@@ -18,7 +18,7 @@ layout: default
         <h2 class="post-title">
           {{ page.title }}
         </h2>
-	
+        
         <div class="post-by">
           <div class="level is-mobile">
             <div class="level-left">
@@ -31,7 +31,7 @@ layout: default
             </div>
           </div>
         </div>
-	
+        
         <div class="post-content">
           {{ page.content }}
         </div>
@@ -45,7 +45,7 @@ layout: default
           {% endfor %}
         </div>
         {% endif %}
-	
+        
         <div class="post-share">
           <div class="level is-mobile">
             <div class="level-left">
@@ -76,13 +76,27 @@ layout: default
             </div>
           </div>
         </div>
-	
+        
         <h3 class="latest-comments">
           <span>
-          <span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ page.url }}">0</span> Comentarios
+            <span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ page.url }}">0</span> Comentarios
           </span>
         </h3>
-        Comments...
+        
+        <div id="disqus_thread"></div>
+        <script>
+          var disqus_config = function () {
+            this.page.url = {{ site.url }}{{ page.url }};
+            this.page.identifier = {{ page.id }};
+          };
+          (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://gw2guias.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+          })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       </article>
     </main>
   </div>
