@@ -10,9 +10,8 @@ layout: default
   </h2>
   
   <div class="columns columns-medium">
-    {% for noticias in site.categories %}
-    {% for posts in noticias %}
-    {% for post in posts %}
+    {% for category in site.categories %}
+    {% for post in category[1] %}
     <div class="is-column-small-1-2 is-column-large-1-4">
       <article class="promotion">
         <a href="{{ site.baseurl }}{{ post.url }}" class="promotion-link">
@@ -38,7 +37,6 @@ layout: default
         </div>
       </article>
     </div>
-    {% endfor %}
     {% endfor %}
     {% endfor %}
   </div>
