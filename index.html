@@ -52,7 +52,7 @@ layout: default
       </h2>
       
       <div class="columns columns-medium">
-        {% for post in site.posts limit:6 %}
+        {% for post in paginator.posts %}
         {% if post.categories contains "Guias" %}
         <div class="is-column-small-1-2">
           <article class="guide">
