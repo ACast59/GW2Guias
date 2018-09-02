@@ -2665,8 +2665,12 @@ header {
 
 .pagination span,
 .pagination a {
-  background: #333;
+  background: #282828;
   color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
   padding: 5px 10px;
   border-radius: 2px;
 }
