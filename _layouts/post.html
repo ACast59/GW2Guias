@@ -5,7 +5,7 @@ layout: default
 {% assign catArray = "" | split: "/" %}
 {% for category in page.categories %}
 {% assign catDowncased = category | downcase %}
-{% assign tagArray = catArray | push: catDowncased %}
+{% assign catArray = catArray | push: catDowncased %}
 {% endfor %}
 
 <ul class="breadcrumbs is-hidden-mobile">
