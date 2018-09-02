@@ -2,16 +2,10 @@
 layout: default
 ---
 
-{% assign catArray = "" | split: "/" %}
-{% for category in page.categories %}
-{% assign catDowncased = category | downcase %}
-{% assign catArray = catArray | push: catDowncased %}
-{% endfor %}
-
 <ul class="breadcrumbs is-hidden-mobile">
   <li><a href="{{ site.url }}">Home</a></li>
   <li><i class="icon-right"></i></li>
-  <li><a href="{{ site.url }}{{ site.category_page }}#{{ catArray }}">{{ page.categories }}</a></li>
+  <li><a href="{{ site.url }}{{ site.category_page }}#{{ page.categories }}">{{ page.categories }}</a></li>
   <li><i class="icon-right"></i></li>
   <li><span>{{ page.title }}</span></li>
 </ul>
@@ -47,7 +41,7 @@ layout: default
           Etiquetas:
           {% for tag in page.tags %}
           {% capture tag_name %}{{ tag }}{% endcapture %}
-          <a href="{{ site.url }}{{ site.tag_page }}#{{ tag_name | downcase }}"><i class="icon-guide"></i>{{ tag_name }}</a>
+          <a href="{{ site.url }}{{ site.tag_page }}#{{ tag_name }}"><i class="icon-guide"></i>{{ tag_name }}</a>
           {% endfor %}
         </div>
         {% endif %}
