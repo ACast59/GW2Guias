@@ -10,35 +10,35 @@ Version: 1.0.0
 
 /*--------------------------------------------------------------/
 Table of Contents:
-	# Normalize
-	# Alignments
-	# Typography
-	# Forms
-	# Formatting
-	# Links
-	# Icons
-	# Grid
-	# Levels
-	# Fields
-	# Layout
-		## Header
-			### Affbar
-			### Topbar
-			### Navbar
-		## Breadcrumbs
-		## Index
-			### Carousel
-			### Promotions
-			### Guides
-		## Posts
-		## Pages
-		## 404 Page
-		## Pagination
-		## Sidebar
-		## Footer
-		## Mobile Menu
-	# Cookie Consent
-	# Media Queries
+  # Normalize
+  # Alignments
+  # Typography
+  # Forms
+  # Formatting
+  # Links
+  # Icons
+  # Grid
+  # Levels
+  # Fields
+  # Layout
+    ## Header
+      ### Affbar
+      ### Topbar
+      ### Navbar
+    ## Breadcrumbs
+    ## Index
+      ### Carousel
+      ### Promotions
+      ### Guides
+    ## Posts
+    ## Pages
+    ## 404 Page
+    ## Pagination
+    ## Sidebar
+    ## Footer
+    ## Mobile Menu
+  # Cookie Consent
+  # Media Queries
 /--------------------------------------------------------------*/
 
 /*-------------------------------------------------------------*/
@@ -2654,6 +2654,21 @@ header {
 /*-------------------------------------------------------------*/
 /* ## Pagination
 /*-------------------------------------------------------------*/
+
+.pagination {
+  margin-top: 20px;
+}
+
+.pagination a {
+  background: #333;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 2px;
+}
+
+.pagination a:hover {
+  background: #DD163B;
+}
 
 /*-------------------------------------------------------------*/
 /* ## Sidebar
