@@ -2659,6 +2659,7 @@ header {
   margin-top: 20px;
 }
 
+.pagination span,
 .pagination a {
   background: #333;
   color: #fff;
@@ -2666,6 +2667,7 @@ header {
   border-radius: 2px;
 }
 
+.pagination span:hover,
 .pagination a:hover {
   background: #DD163B;
 }
