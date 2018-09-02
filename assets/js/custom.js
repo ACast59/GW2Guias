@@ -58,7 +58,7 @@ function closeMobileMenu() {
 $(document).ready(function(){
   jQuery("time.timeago").timeago();
    
-  var $affbar_deals = Cookies.get('affbar-deals');
+  $affbar_deals = Cookies.get('affbar-deals');
   if (!$affbar_deals) {
     $(".affbar").delay(1500).slideDown("slow");
     $(".affbar-close").click(function(){
@@ -84,38 +84,11 @@ $(document).ready(function(){
       backToTop();
     });
     
-		$('.back-to-top').on('click', function (e) {
+    $('.back-to-top').on('click', function (e) {
       e.preventDefault();
       $('html,body').animate({
         scrollTop: 0
       }, 700);
     });
   }
-
-  var $el, $ps, $up, totalHeight;
-  
-  $(".panel .read-more-link").click(function() {  
-    totalHeight = 30
-    
-    $el = $(this);
-    $p  = $el.parent();
-    $up = $p.parent();
-    $ps = $up.find("a:not('.read-more')");
-    
-    $ps.each(function() {
-      totalHeight += $(this).outerHeight();
-    });
-    
-    $up
-    .css({
-      "height": $up.height(),
-      "max-height": 9999
-    })
-    .animate({
-      "height": totalHeight
-    });
-    
-    $p.fadeOut();
-    return false;
-  });
 });
