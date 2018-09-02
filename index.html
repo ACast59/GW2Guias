@@ -88,11 +88,11 @@ layout: default
         {% endfor %}
         
         <!-- Pagination links -->
-        <div class="level pagination">
+        <div class="level is-mobile pagination">
           {% if paginator.previous_page %}
           <div class="level-left">
             <div class="level-item">
-              <a href="{{ paginator.previous_page_path }}" class="previous">
+              <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">
                 Previous
               </a>
             </div>
@@ -108,7 +108,7 @@ layout: default
           {% if paginator.next_page %}
           <div class="level-right">
             <div class="level-item">
-              <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+              <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">Next</a>
             </div>
           </div>
           {% else %}
