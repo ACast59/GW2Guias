@@ -6,7 +6,7 @@ title: Etiquetas
 <div class="site-tags">
   <div class="tag-list">
     {% for tag in site.tags %}
-    <a href="#{{ tag[0] | uri_escape }}"><i class="icon-guide"></i> {{ tag[0] }}</a>
+    <a href="#{{ tag[0] | replace: " ", "-" }}"><i class="icon-guide"></i> {{ tag[0] }}</a>
     {% endfor %}
   </div>
   <div class="tag-posts">
