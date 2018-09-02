@@ -10,7 +10,7 @@ paginate_path:          '/pagina:num'
 permalink:              /:categories/:title/
 baseurl:                "/"
 url:                    https://acast59.github.io/GW2Guias
-paginate: 3
+paginate: 6
 paginate_path: "/pagina:num/"
 tag_page: '/etiquetas/'
 category_page: '/categorias/'
