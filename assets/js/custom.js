@@ -58,8 +58,8 @@ function closeMobileMenu() {
 $(document).ready(function(){
   jQuery("time.timeago").timeago();
    
-  var $affbar-deals = Cookies.get('affdeals');
-  if (!$affbar-deals) {
+  $affbar_deals = Cookies.get('affdeals');
+  if (!$affbar_deals) {
     $(".affbar").slideDown("slow");
     $(".affbar-close").click(function(){
       Cookies.set('affdeals', '1');
