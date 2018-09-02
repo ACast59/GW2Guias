@@ -41,7 +41,7 @@ layout: default
           Etiquetas:
           {% for tag in page.tags %}
           {% capture tag_name %}{{ tag }}{% endcapture %}
-          <a href="{{ site.url }}{{ site.tag_page }}#{{ tag_name | slugify | capitalize }}"><i class="icon-guide"></i>{{ tag_name }}</a>
+          <a href="{{ site.url }}{{ site.tag_page }}#{{ tag_name | replace: " ", "-" }}"><i class="icon-guide"></i>{{ tag_name }}</a>
           {% endfor %}
         </div>
         {% endif %}
