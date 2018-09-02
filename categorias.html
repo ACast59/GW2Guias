@@ -11,7 +11,7 @@ title: Categorias
   </div>
   <div class="tag-posts">
     {% for tag in site.categories %}
-    <h3 id="{{ tag[0] | slugify }}">{{ tag[0] | capitalize }}</h3>
+    <h3 id="{{ tag[0] | capitalize }}">{{ tag[0] | capitalize }}</h3>
     <ul class="tag-posts-tagged">
       {% for post in tag[1] %}
         <a href="{{ site.baseurl }}{{ post.url }}">
