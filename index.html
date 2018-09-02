@@ -89,22 +89,24 @@ layout: default
             {% if paginator.previous_page %}
             <div class="align-left">
               <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">
-                Previous
+                &#171; Previous
               </a>
             </div>
             {% else %}
             <div class="align-left">
-              <span class="previous">Previous</span>
+              <span class="previous">&#171; Previous</span>
             </div>
             {% endif %}
             
             {% if paginator.next_page %}
             <div class="align-right">
-              <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">Next</a>
+              <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">
+                Next &#187;
+              </a>
             </div>
             {% else %}
             <div class="align-right">
-              <span class="next">Next</span>
+              <span class="next">Next &#187;</span>
             </div>
             {% endif %}
           </div>
