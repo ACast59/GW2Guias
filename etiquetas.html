@@ -11,7 +11,7 @@ title: Etiquetas
   </div>
   <div class="tag-posts">
     {% for tag in site.tags %}
-    <h3 id="{{ tag[0] | slugify | capitalize }}">{{ tag[0] }}</h3>
+    <h3 id="{{ tag[0] | replace: " ", "-" }}">{{ tag[0] }}</h3>
     <ul class="tag-posts-tagged">
       {% for post in tag[1] %}
         <a href="{{ site.baseurl }}{{ post.url }}">
