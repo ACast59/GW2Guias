@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="{{ site.url }}/public/mstile-150x150.png"/>
+            <square150x150logo src="public/mstile-150x150.png"/>
             <TileColor>#b91d47</TileColor>
         </tile>
     </msapplication>
