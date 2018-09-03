@@ -2,7 +2,7 @@
 layout:     post
 title:      "Aniversario 6 de Guild Wars 2"
 date:       2018-09-03 01:10:00 -0400
-thumbnail:  /assets/img/entradas/noticias/divinitys_reach_celebration_thumb.jpg
+thumbnail:  /assets/img/entradas/noticias/divinitys_reach_celebration_thumbnail.jpg
 image:      /assets/img/entradas/noticias/divinitys_reach_celebration.jpg
 category:   Noticias
 hidden: true
