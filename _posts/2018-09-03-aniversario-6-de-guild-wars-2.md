@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Aniversario 6 de Guild Wars 2"
-date:     2018-09-01 20:30:00 -0400
+date:     2018-09-03 01:10:00 -0400
 image:    /assets/img/entradas/noticias/celebracion_seis_guild_wars_2.jpg
 category: Noticias
 hidden: true
