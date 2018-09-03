@@ -2738,10 +2738,43 @@ header {
 }
 
 .widget-highlighted .widget-content {
-  padding: 20px 20px 0;
+  padding: 20px;
   background-color: #333;
   color: #eae8e8;
   border: 1px solid #282828;
+}
+
+.widget-highlighted .widget-content p {
+  margin: 0;
+}
+
+.widget-highlighted .widget-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.widget-highlighted .widget-content ul li {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #525252;
+  margin-bottom: 5px;
+}
+
+.widget-highlighted .widget-content ul li:last-child {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+.widget-highlighted .widget-content ul li a {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.widget-highlighted .widget-content ul li a:hover {
+  color: #ccc;
 }
 
 .widget-content .field .is-expanded .input {
