@@ -85,16 +85,13 @@ layout: default
         
         <!-- Pagination links -->
         <div class="is-column-small-1-1">
+          
           <div class="pagination">
             {% if paginator.previous_page %}
             <div class="align-left">
               <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">
                 &#171; Anterior
               </a>
-            </div>
-            {% else %}
-            <div class="align-left">
-              <span class="previous">&#171; Anterior</span>
             </div>
             {% endif %}
             
@@ -104,12 +101,9 @@ layout: default
                 Siguiente &#187;
               </a>
             </div>
-            {% else %}
-            <div class="align-right">
-              <span class="next">Siguiente &#187;</span>
-            </div>
             {% endif %}
           </div>
+          
         </div>
       </div>
     </main>
