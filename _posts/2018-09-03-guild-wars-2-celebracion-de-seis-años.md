@@ -10,8 +10,6 @@ hidden: true
 
 Ya han sido 6 años desde que Guild Wars 2 fue lanzado. Para celebrarlo, el equipo de de GW2 a creado una infografia con con algunos datos divertidos, junto con un vídeo sobre lo lejos que ha llegado el mundo viviente de Guild Wars 2 y lo que depara su futuro.
 
-{:refdef: style="display:block;margin:0 auto;"}
-<iframe style="text-align:center;" width="560" height="315" src="https://www.youtube.com/embed/XuxqDsatNAk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-{: refdef}
+<p><iframe style="text-align:center;" width="560" height="315" src="https://www.youtube.com/embed/XuxqDsatNAk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>{: style="display:block;margin:0 auto;"}
 
 ![Infografia de Mundo Viviente](https://gw2guias.com/assets/img/entradas/noticias/GW2_LW_Inforgraphic_2018_ES-590x3038.jpg "Infografia de Mundo Viviente"){: style="display:block;margin:0 auto;"}
