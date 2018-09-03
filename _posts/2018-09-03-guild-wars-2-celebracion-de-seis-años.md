@@ -12,4 +12,6 @@ Ya han sido 6 años desde que Guild Wars 2 fue lanzado. Para celebrarlo, el equi
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XuxqDsatNAk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<p align="center">[![Infografia de Mundo Viviente](https://gw2guias.com/assets/img/entradas/noticias/GW2_LW_Inforgraphic_2018_ES-590x3038.jpg "Infografia de Mundo Viviente")](https://gw2guias.com/assets/img/entradas/noticias/GW2_LW_Inforgraphic_2018_ES-590x3038.jpg "Infografia de Mundo Viviente")</p>
+<p align="center">
+[![Infografia de Mundo Viviente](https://gw2guias.com/assets/img/entradas/noticias/GW2_LW_Inforgraphic_2018_ES-590x3038.jpg "Infografia de Mundo Viviente")](https://gw2guias.com/assets/img/entradas/noticias/GW2_LW_Inforgraphic_2018_ES-590x3038.jpg "Infografia de Mundo Viviente")
+</p>
