@@ -6,31 +6,25 @@ sitemap: false
 metatags: noindex, follow
 ---
 
-<ul class="breadcrumbs is-hidden-mobile">
-	<li><a href="{{ site.url }}">Inicio</a></li>
-	<li><i class="icon-right"></i></li>
-	<li><span>Error 404</span></li>
-</ul>
-
 <div class="columns">
-	<div class="is-column-medium-1-1">
-		<main>
-			<div class="not-found has-text-centered">
-				<img src="{{ site.url }}{{ '/assets/img/not-found.png' }}" alt="404">
-				<p>Error, solo hay fantasmas aqui!</p>
-				<p>La pagina que estas buscando no existe, <a href="{{ site.url }}">ir al inicio</a> o haz una busqueda.</p>
-				
-				<form role="search" method="get" id="searchform" class="field has-addons" action="{{ site.url }}/busqueda/">
-					<div class="control">
-						<input class="input" type="text" value="" name="q" id="s" placeholder="Buscar...">
-					</div>
-					<div class="control">
-						<button type="submit" class="button is-info">
-							<i class="icon-search"></i>
-						</button>
-					</div>
-				</form>
-			</div>
-		</main>
-	</div>
+  <div class="is-column-medium-1-1">
+    <main>
+      <div class="not-found has-text-centered">
+        <img src="{{ site.url }}{{ '/assets/img/not-found.png' }}" alt="404">
+        <p>Error, solo hay fantasmas aqui!</p>
+        <p>La pagina que estas buscando no existe, <a href="{{ site.url }}">ir al inicio</a> o haz una busqueda.</p>
+        
+        <form role="search" method="get" id="searchform" class="field has-addons" action="{{ site.url }}/busqueda/">
+          <div class="control">
+            <input class="input" type="text" value="" name="q" id="s" placeholder="Buscar...">
+          </div>
+          <div class="control">
+            <button type="submit" class="button is-info">
+              <i class="icon-search"></i>
+            </button>
+          </div>
+        </form>
+      </div>
+    </main>
+  </div>
 </div>
