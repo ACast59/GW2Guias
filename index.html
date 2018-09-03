@@ -23,7 +23,7 @@ layout: default
         </h3>
         
         <div class="promotion-text">
-          {{ post.excerpt }}
+          {{ post.excerpt| truncatewords:25 }}
         </div>
         
         <div class="level is-mobile">
