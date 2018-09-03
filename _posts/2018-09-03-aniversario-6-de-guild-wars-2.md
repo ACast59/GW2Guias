@@ -6,7 +6,6 @@ thumbnail:  /assets/img/entradas/noticias/divinitys_reach_celebration_thumbnail.
 image:      /assets/img/entradas/noticias/divinitys_reach_celebration.jpg
 category:   Noticias
 hidden: true
-
 ---
 
 Ya han sido 6 años desde que Guild Wars 2 fue lanzado. Para celebrarlo, el equipo de GW2 a creado una infografia con algunos datos divertidos, junto con un vídeo sobre lo lejos que ha llegado el mundo viviente de Guild Wars 2 y lo que depara su futuro.
