@@ -2767,14 +2767,26 @@ header {
 }
 
 .widget-highlighted .widget-content ul li a {
-  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   color: #fff;
-  text-transform: uppercase;
 }
 
 .widget-highlighted .widget-content ul li a:hover {
   color: #ccc;
+}
+
+.tag-cloud a {
+  background: #444;
+  color: #fff;
+  padding: 5px 10px;
+  line-height: 2.35;
+  font-weight: 700;
+  white-space: nowrap;
+  border-radius: 2px;
+}
+
+.tag-cloud a:hover {
+  background: #555;
 }
 
 .widget-content .field .is-expanded .input {
