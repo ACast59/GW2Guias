@@ -16,3 +16,4 @@ tag_page: '/etiquetas/'
 category_page: '/categorias/'
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
