@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<ul class="breadcrumbs is-hidden-mobile">
+  <li><a href="index.html">Home</a></li>
+  <li><i class="icon-right"></i></li>
+  <li><span>{{ page.title }}</span></li>
+</ul>
+
+<div class="columns">
+  <div class="is-column-medium-1-1">
+    <main class="page">
+      <article class="page-body">
+        {% if page.image %} 
+        <img class="page-image" src="{{ site.url }}{{ page.image }}" alt="{{ page.title }}">
+        {% endif %} 
+        
+        <h2 class="page-title">
+          {{ page.title }}
+        </h2>
+        
+        <div class="page-content">
+          {{ content }}
+        </div>
+      </article>
+    </main>
+  </div>
+</div>
