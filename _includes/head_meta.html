@@ -3,6 +3,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+{% if page.metatags %}
+  <meta name="robots" content="{{ page.metatags }}">
+{% endif %}
 {% feed_meta %}
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,700">
