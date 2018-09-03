@@ -10,7 +10,7 @@ paginate_path:          '/pagina:num'
 permalink:              /:categories/:title/
 baseurl:                "/"
 url:                    https://gw2guias.com
-paginate: 6
+paginate: 2
 paginate_path: "/pagina:num/"
 tag_page: '/etiquetas/'
 category_page: '/categorias/'
