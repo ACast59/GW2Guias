@@ -17,4 +17,4 @@ category_page: '/categorias/'
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-google_analytics_token: ''
+google_analytics_token:
