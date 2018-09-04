@@ -23,7 +23,7 @@ layout: default
         </h3>
         
         <div class="promotion-text">
-          {{ post.excerpt| truncatewords:25 }}
+          {{ post.excerpt | truncatewords:25 }}
         </div>
         
         <div class="level is-mobile">
@@ -75,7 +75,7 @@ layout: default
             </div>
             
             <div class="guide-text">
-              {{ post.excerpt }}
+              {{ post.excerpt | truncatewords:25 }}
             </div>
             
             <a href="{{ site.baseurl }}{{ post.url }}" class="guide-button">Leer Guia</a>
