@@ -197,42 +197,42 @@ El necromancer minion master es una de la builds mas populares debido a la canti
     <div class="pve-box-right">
       <div class="pve-trinkets">
         <div class="pve-trinket ascended back">
-          <div class="item-img" data-armory-embed="items" data-armory-ids="79830" data-armory-size="44"></div>
+          <div class="item-img" data-armory-embed="items" data-armory-ids="79830" data-armory-79830-stat="161" data-armory-size="44"></div>
           <div class="stat-icon" title="Berserker">
             <img alt="Berserker stat icon.png" src="/assets/img/Berserker_stat_icon.png" width="25" height="25" />
           </div>
         </div>
         
         <div class="pve-trinket ascended accessory1">
-          <div class="item-img" data-armory-embed="items" data-armory-ids="79745" data-armory-size="44"></div>
+          <div class="item-img" data-armory-embed="items" data-armory-ids="79745" data-armory-79745-stat="161" data-armory-size="44"></div>
           <div class="stat-icon" title="Berserker">
             <img alt="Berserker stat icon.png" src="/assets/img/Berserker_stat_icon.png" width="25" height="25" />
           </div>
         </div>
         
         <div class="pve-trinket ascended accessory2">
-          <div class="item-img" data-armory-embed="items" data-armory-ids="79444" data-armory-size="44"></div>
+          <div class="item-img" data-armory-embed="items" data-armory-ids="79444" data-armory-79444-stat="161" data-armory-size="44"></div>
           <div class="stat-icon" title="Berserker">
             <img alt="Berserker stat icon.png" src="/assets/img/Berserker_stat_icon.png" width="25" height="25" />
           </div>
         </div>
         
         <div class="pve-trinket ascended amulet">
-          <div class="item-img" data-armory-embed="items" data-armory-ids="80241" data-armory-size="44"></div>
+          <div class="item-img" data-armory-embed="items" data-armory-ids="80241" data-armory-80241-stat="161" data-armory-size="44"></div>
           <div class="stat-icon" title="Berserker">
             <img alt="Berserker stat icon.png" src="/assets/img/Berserker_stat_icon.png" width="25" height="25" />
           </div>
         </div>
         
         <div class="pve-trinket ascended ring1">
-          <div class="item-img" data-armory-embed="items" data-armory-ids="79712" data-armory-size="44"></div>
+          <div class="item-img" data-armory-embed="items" data-armory-ids="79712" data-armory-79712-stat="161" data-armory-size="44"></div>
           <div class="stat-icon" title="Berserker">
             <img alt="Berserker stat icon.png" src="/assets/img/Berserker_stat_icon.png" width="25" height="25" />
           </div>
         </div>
         
         <div class="pve-trinket ascended ring2">
-          <div class="item-img" data-armory-embed="items" data-armory-ids="81024" data-armory-size="44"></div>
+          <div class="item-img" data-armory-embed="items" data-armory-ids="81024" data-armory-81024-stat="161" data-armory-size="44"></div>
           <div class="stat-icon" title="Berserker">
             <img alt="Berserker stat icon.png" src="/assets/img/Berserker_stat_icon.png" width="25" height="25" />
           </div>
