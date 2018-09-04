@@ -10,7 +10,7 @@ tags:       [Builds, Necromancer, Mundo Abierto]
 
 El necromancer minion master es una de la builds mas populares debido a la cantidad de poder y supervivencia que mantiene. Con esta build seras capaz de completar dungeons y campeones por ti mismo, una build perfecta para mundo abierto. Para poder usarla debes tener acceso a expansion Heart of Thorns.
 
-<div class="content-source"><i>Build original por: <a href="https://metabattle.com/wiki/Build:Reaper_-_Power_Minion_Master" rel="nofollow">MetaBattle</a></i>.</div>
+<div class="content-source"><p><i>Build original por: <a href="https://metabattle.com/wiki/Build:Reaper_-_Power_Minion_Master" rel="nofollow">MetaBattle</a></i>.</p></div>
 
 <h3>Barra de habilidades</h3>
 
