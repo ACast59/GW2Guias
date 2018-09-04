@@ -3008,7 +3008,6 @@ header {
 }
 
 .pve-equipment .pve-box-left {
-  border-right: 2px solid #000;
   margin-right: 8px
 }
 
@@ -3186,7 +3185,7 @@ header {
 .pve-equipment .pve-armor-piece,
 .pve-equipment .pve-trinket {
   position: relative;
-  padding: 0 20px 0px 20px;
+  padding: 0 10px 10px 10px;
   height: 5em
 }
 
