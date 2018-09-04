@@ -16,7 +16,7 @@ El necromancer minion master es una de la builds mas populares debido a la canti
 
 <div class="mskillbar-mechanics-header reaper">
   <div>
-    <p>Manto de Reaper</p>
+    <p>Sudario del Segador</p>
     
     <div class="mechanic-skills">
       <div data-armory-embed="skills" data-armory-ids="29442,30825,29958,30504,30557" data-armory-size="40"></div>
