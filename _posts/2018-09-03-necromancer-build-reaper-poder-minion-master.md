@@ -274,7 +274,7 @@ El necromancer minion master es una de la builds mas populares debido a la canti
   </li>
   
   <li>
-    Entrar en <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="30792" data-armory-inline-text="wiki" data-armory-size="24"></span></div> te da un gran bono de daño. Usalo cada ves que estes con 50% de vida o mas para obetener <a href="https://wiki-es.guildwars2.com/wiki/Rapidez" title="Quickness"><img alt="Rapidez" src="/assets/img/25px-Quickness.png" width="25" height="25" style="display:inline-block;" /></a> <a href="https://wiki-es.guildwars2.com/wiki/Rapidez" title="gw2:Rapidez">Rapidez</a> y daño de area extremadamente alto.
+    Entrar en <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="30792" data-armory-inline-text="wiki" data-armory-size="24"></span></div> te da un gran bono de daño. Usalo cada ves que estes con 50% de vida o mas para obetener <a href="https://wiki-es.guildwars2.com/wiki/Rapidez" title="Quickness" rel="nofollow"><img alt="Rapidez" src="/assets/img/25px-Quickness.png" width="25" height="25" style="display:inline-block;" /></a> <a href="https://wiki-es.guildwars2.com/wiki/Rapidez" title="gw2:Rapidez" rel="nofollow">Rapidez</a> y daño de area extremadamente alto.
   </li>
   
   <li>Una ves que tus habilidades de daño principal esten agotadas, es el turno de <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="30163" data-armory-inline-text="wiki" data-armory-size="24"></span></div>, tu habilidad de daño de area de forma circular. Usalo lo mas frecuentemente posible y recuerda que si dañas a un enemigo con menos de 50% con esta habilidad no tendras que esperar un tiempo de enfriamiento antes de usarlo nuevamente.</li>
@@ -293,7 +293,7 @@ El necromancer minion master es una de la builds mas populares debido a la canti
 
   <li><div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="29855" data-armory-inline-text="wiki" data-armory-size="24"></span></div>, <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="30825" data-armory-inline-text="wiki" data-armory-size="24"></span></div>, y <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="10590" data-armory-inline-text="wiki" data-armory-size="24"></span></div> pueden ser usados para cegar enemigos.</li>
 
-  <li>Si estas recibiendo mucho daño puedes usar <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="30792" data-armory-inline-text="wiki" data-armory-size="24"></span></div> como una segunda barra de vida. <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="29958" data-armory-inline-text="wiki" data-armory-size="24"></span></div> provee <a href="http://wiki-es.guildwars2.com/wiki/Estabilidad" title="Stability"><img alt="Estabilidad" src="/assets/img/25px-Stability.png" width="25" height="25" style="display:inline-block;" /></a> <a href="http://wiki-es.guildwars2.com/wiki/Estabilidad" class="extiw" title="gw2:Estabilidad">Estabilidad</a> y ayuda a mitigar daño.</li>
+  <li>Si estas recibiendo mucho daño puedes usar <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="30792" data-armory-inline-text="wiki" data-armory-size="24"></span></div> como una segunda barra de vida. <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="29958" data-armory-inline-text="wiki" data-armory-size="24"></span></div> provee <a href="http://wiki-es.guildwars2.com/wiki/Estabilidad" title="Stability" rel="nofollow"><img alt="Estabilidad" src="/assets/img/25px-Stability.png" width="25" height="25" style="display:inline-block;" /></a> <a href="http://wiki-es.guildwars2.com/wiki/Estabilidad" class="extiw" title="gw2:Estabilidad" rel="nofollow">Estabilidad</a> y ayuda a mitigar daño.</li>
 
   <li>Si tienes problemas sobreviviendo, puedes habilitar <div style="display:inline-block;"><span data-armory-embed="traits" data-armory-ids="1940" data-armory-inline-text="wiki" data-armory-size="24"></span></div> en Magia de muerte.</li>
 </ul>
@@ -310,7 +310,7 @@ El necromancer minion master es una de la builds mas populares debido a la canti
   <li>Si eres derrotado simplemente usa <div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="10640" data-armory-inline-text="wiki" data-armory-size="24"></span></div> para recuperarte.</li>
 </ul>
 
-<h4>Crowd Control:</h4>
+<h4>Efectos de control (CC):</h4>
 
 <ul>
   <li><div style="display:inline-block"><span data-armory-embed="skills" data-armory-ids="29740" data-armory-inline-text="wiki" data-armory-size="24"></span></div></li>
