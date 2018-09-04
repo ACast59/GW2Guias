@@ -2,8 +2,8 @@
 layout:     post
 title:      "Necromancer Build: Reaper Poder Minion Master"
 date:       2018-09-03 22:03:00 -0400
-thumbnail:  /assets/img/entradas/guias/necromancer_minions_thumbnail.jpg
-image:      /assets/img/entradas/guias/necromancer_minions.jpg
+thumbnail:  /assets/img/entradas/guias/reaper_poder_minion_master_thumbnail.jpg
+image:      /assets/img/entradas/guias/reaper_poder_minion_master.jpg
 category:   Guias
 tags:       [Builds, Necromancer, Mundo Abierto]
 ---
