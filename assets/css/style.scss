@@ -2540,6 +2540,742 @@ header {
   border-bottom-color: #282828;
 }
 
+.mskillbar {
+  margin-bottom: 20px;
+}
+
+.mskillbar>div {
+  display: inline-block;
+  background: #000;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+}
+
+.mskillbar .mskillbar-labels {
+  display: flex;
+  margin: 0 0 0.5em;
+}
+
+.mskillbar .mskillbar-labels span {
+  color: #fff;
+  font-weight: 700;
+}
+
+.mskillbar .mskillbar-labels span:nth-of-type(1) {
+  width: 20.25em;
+}
+
+.mskillbar .mskillbar-labels span:nth-of-type(2) {
+  width: 9em;
+}
+
+.mskillbar .mskillbar-labels span:nth-of-type(3) {
+  width: 9.80em;
+}
+
+.mskillbar .mskillbar-labels span:nth-of-type(4) {
+  width: 7em;
+}
+
+.mskillbar .mskillbar-main {
+  display: flex;
+}
+
+.mskillbar .mskillbar-main .mskillbar-weapon>.standard-weapon-row {
+  display: flex;
+  margin-bottom: 0.2em;
+}
+
+.mskillbar .mskillbar-main .mskillbar-weapon>.stealth-attack-skill {
+  display: inline-block;
+  border: solid 3px #8C686C;
+}
+
+.mskillbar .mskillbar-main .healing-skill,
+.mskillbar .mskillbar-main .elite-skill {
+  margin: 0 1.5em;
+}
+
+.gw2a-character-embed,
+.gw2a-skills-embed,
+.gw2a-items-embed,
+.gw2a-amulets-embed,
+.gw2a-traits-embed {
+  line-height: 0;
+}
+
+.gw2a-skills-embed>.gw2a--M9jBV :first-child,
+.gw2a-traits-embed>.gw2a--M9jBV :first-child,
+.gw2a-items-embed>.gw2a--M9jBV :first-child {
+  display: inline-block;
+  padding-bottom: 2px;
+}
+
+.mskillbar-mechanics-header {
+  display: inline-flex;
+}
+
+.mskillbar-mechanics-header>div {
+  background: #000;
+  padding: 10px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.mskillbar-mechanics-header>div>p {
+  color: #fff;
+  font-weight: 700;
+  margin: 0;
+}
+
+.mskillbar-mechanics-header.ranger,
+.mskillbar-mechanics-header.druid,
+.mskillbar-mechanics-header.soulbeast,
+.mskillbar-mechanics-header.necromancer,
+.mskillbar-mechanics-header.reaper,
+.mskillbar-mechanics-header.scourge {
+  flex-direction: column
+}
+
+.mskillbar-mechanics-header .ranger-pets {
+  display: flex
+}
+
+.mskillbar-mechanics-header .ranger-pets>div {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  height: 100px
+}
+
+.mskillbar-mechanics-header .ranger-pets div:nth-child(1) {
+  margin-right: 20px
+}
+
+.mskillbar-mechanics-header .ranger-pet-skills {
+  position: relative;
+  padding-bottom: 2em
+}
+
+.mskillbar-mechanics-header .ranger-pet-skills .pet-skill {
+  position: absolute;
+  top: -20px
+}
+
+.mskillbar-mechanics-header .ranger-pet-skills .pet-skill:nth-of-type(1) {
+  left: 60px
+}
+
+.mskillbar-mechanics-header .ranger-pet-skills .pet-skill:nth-of-type(2) {
+  left: 180px
+}
+
+.mskillbar-mechanics-header.druid .mechanic-skills,
+.mskillbar-mechanics-header.soulbeast .mechanic-skills {
+  display: flex
+}
+
+.mskillbar-mechanics-header.druid .mechanic-skills .celestial-avatar {
+  padding-left: 4.3em
+}
+
+.mskillbar-mechanics-header .soulbeast-pets {
+  display: flex
+}
+
+.mskillbar-mechanics-header .soulbeast-pets>div {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  height: 100px
+}
+
+.mskillbar-mechanics-header .soulbeast-pets div:nth-child(1) {
+  margin: 0 3em 0 1em
+}
+
+.mskillbar-mechanics-header.soulbeast .mechanic-skills>div:nth-child(2) {
+  margin: 0 1.4em 0 1.85em
+}
+
+.mskillbar-mechanics-header .soulbeast-pet-skills {
+  position: relative;
+  padding-bottom: 2em
+}
+
+.mskillbar-mechanics-header .soulbeast-pet-skills .pet-skill {
+  position: absolute;
+  top: -20px
+}
+
+.mskillbar-mechanics-header .soulbeast-pet-skills .pet-skill:nth-of-type(1) {
+  left: 80px
+}
+
+.mskillbar-mechanics-header .soulbeast-pet-skills .pet-skill:nth-of-type(2) {
+  left: 225px
+}
+
+.mskillbar-mechanics-header.necromancer .mechanic-skills,
+.mskillbar-mechanics-header.reaper .mechanic-skills {
+  margin-bottom: -2em
+}
+
+.mskillbar-mechanics-header .shroud-mechanics {
+  display: flex
+}
+
+.mskillbar-mechanics-header .shroud-mechanics .life-force-bar {
+  width: 254px;
+  height: 16px;
+  align-self: flex-end;
+  background-color: #145E16;
+  border: 1px solid rgba(0, 0, 0, 0.87);
+  margin-right: -2px
+}
+
+.mskillbar-mechanics-header.scourge .mechanic-skills {
+  display: flex;
+  padding-bottom: 0.2em
+}
+
+.mskillbar-mechanics-header.scourge .mechanic-skills .shades {
+  position: relative;
+  width: 30px;
+  height: 40px;
+  padding: 5px;
+  margin: 0 0.25em
+}
+
+.mskillbar-mechanics-header.scourge .mechanic-skills .shades .shade {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border: 1.5px solid #111;
+  background-color: rgba(230, 187, 62, 1);
+  transform: rotate(45deg)
+}
+
+.mskillbar-mechanics-header.scourge .mechanic-skills .shades .shade:nth-of-type(1) {
+  top: 7px
+}
+
+.mskillbar-mechanics-header.scourge .mechanic-skills .shades .shade:nth-of-type(2) {
+  top: 16px;
+  left: 14px
+}
+
+.mskillbar-mechanics-header.scourge .mechanic-skills .shades .shade:nth-of-type(3) {
+  top: 25px
+}
+
+.mskillbar-mechanics-header .shroud-mechanics .sand-life-force-bar {
+  width: 277px;
+  height: 16px;
+  background-color: #cba00e;
+  border: 1px solid rgba(0, 0, 0, 0.87)
+}
+
+.mskillbar-mechanics-header .berserker-bar {
+  width: 224px;
+  height: 16px;
+  align-self: center;
+  background-color: #fdb845;
+  border: 1px solid rgba(0, 0, 0, 0.87);
+  margin-right: -20px
+}
+
+.mskillbar-mechanics-header.warrior .burst-bar,
+.mskillbar-mechanics-header.spellbreaker .burst-bar {
+  display: flex;
+  height: 18px;
+  align-self: center;
+  margin-right: -24px
+}
+
+.mskillbar-mechanics-header.warrior .burst-bar div {
+  height: 16px;
+  width: 84px;
+  border: 1px solid rgba(0, 0, 0, 0.87);
+  margin-right: 8px
+}
+
+.mskillbar-mechanics-header.warrior .burst-bar div:nth-child(1) {
+  background: linear-gradient(to right, #e8d799, #d19d3f)
+}
+
+.mskillbar-mechanics-header.warrior .burst-bar div:nth-child(2) {
+  background: linear-gradient(to right, #d68b2b, #c96518)
+}
+
+.mskillbar-mechanics-header.warrior .burst-bar div:nth-child(3) {
+  background: linear-gradient(to right, #c35611, #b33811)
+}
+
+.mskillbar-mechanics-header.spellbreaker .burst-bar div {
+  height: 16px;
+  width: 106px;
+  border: 1px solid rgba(0, 0, 0, 0.87);
+  margin-right: 8px
+}
+
+.mskillbar-mechanics-header.spellbreaker .burst-bar div:nth-child(1) {
+  background: linear-gradient(to right, #e8d799, #d19d3f)
+}
+
+.mskillbar-mechanics-header.spellbreaker .burst-bar div:nth-child(2) {
+  background: linear-gradient(to right, #d68b2b, #c96518)
+}
+
+.mskillbar-mechanics-header.chronomancer .continuum-split {
+  border-left: 2px solid #222;
+  padding-left: 0.5em;
+  margin-left: 0.5em
+}
+
+.mskillbar-mechanics-header .legends {
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  justify-content: flex-end
+}
+
+.mskillbar-mechanics-header .legend-bar {
+  clip-path: polygon(0px 18px, 152px 18px, 152px 0px, 145px 5px, 80px 5px, 75px 10px, 70px 5px, 5px 5px, 0px 0px);
+  background-color: rgba(45, 45, 45, 0.68);
+  width: 152px;
+  height: 18px
+}
+
+.mskillbar-mechanics-header .legend-bar .energy-overlay {
+  clip-path: polygon(1px 17px, 151px 17px, 151px 1px, 146px 6px, 81px 6px, 76px 11px, 71px 6px, 6px 6px, 1px 1px);
+  background: url(https://metabattle.comhttps://metabattle.com/wiki/images/8/80/Revenant_legend_overlay.png)
+}
+
+.mskillbar-mechanics-header .legend-bar .color-overlay {
+  clip-path: polygon(1px 17px, 151px 17px, 151px 1px, 146px 6px, 81px 6px, 76px 11px, 71px 6px, 6px 6px, 1px 1px);
+  filter: saturate(1.5) brightness(1.2)
+}
+
+.mskillbar-mechanics-header .legend-bar .color-overlay.jalis {
+  background-color: rgba(95, 200, 219, 0.5)
+}
+
+.mskillbar-mechanics-header .legend-bar .color-overlay.mallyx {
+  background-color: rgba(131, 82, 178, 0.5)
+}
+
+.mskillbar-mechanics-header .legend-bar .color-overlay.ventari {
+  background-color: rgba(170, 201, 107, 0.5)
+}
+
+.mskillbar-mechanics-header .legend-bar .color-overlay.shiro {
+  background-color: rgba(57, 160, 89, 0.5)
+}
+
+.mskillbar-mechanics-header .legend-bar .color-overlay.glint {
+  background-color: rgba(120, 171, 174, 0.5)
+}
+
+.mskillbar-mechanics-header .legend-bar .color-overlay.kalla {
+  background-color: rgba(242, 124, 24, 0.5)
+}
+
+.mskillbar-mechanics-header .legends .mechanic-skills {
+  align-self: center
+}
+
+.mskillbar-mechanics-header.weaver .weaved-element {
+  margin-right: 3px
+}
+
+.mskillbar-mechanics-header.weaver .weaved-element.fire {
+  border: 2px solid #dc7e28
+}
+
+.mskillbar-mechanics-header.weaver .weaved-element.water {
+  border: 2px solid #00adff
+}
+
+.mskillbar-mechanics-header.weaver .weaved-element.air {
+  border: 2px solid #765ca5
+}
+
+.mskillbar-mechanics-header.weaver .weaved-element.earth {
+  border: 2px solid #fabe00
+}
+
+.mskillbar-mechanics-header.holosmith .photon-forge {
+  border-left: 2px solid #222;
+  padding-left: 0.5em;
+  margin-left: 0.5em
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages {
+  position: relative;
+  width: 110px;
+  height: 48px;
+  padding: 5px;
+  background: linear-gradient(to right, rgba(65, 138, 150, 0.81), transparent)
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages .page {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: 1px solid #268392;
+  background-color: #a9d3d5;
+  transform: rotate(45deg)
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages .page:nth-of-type(1) {
+  top: 14px
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages .page:nth-of-type(2) {
+  top: 24px;
+  left: 14px
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages .page:nth-of-type(3) {
+  top: 14px;
+  left: 23px
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages .page:nth-of-type(4) {
+  top: 24px;
+  left: 32px
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages .page:nth-of-type(5) {
+  top: 14px;
+  left: 42px
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages .page:nth-of-type(6) {
+  top: 24px;
+  left: 51px
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages .page:nth-of-type(7) {
+  top: 14px;
+  left: 61px
+}
+
+.mskillbar-mechanics-header.firebrand .tome-pages .page:nth-of-type(8) {
+  top: 24px;
+  left: 71px
+}
+
+.pve-equipment-wrapper {
+  display: inline-block;
+  background: #000;
+  border-radius: 3px;
+  padding: 10px
+}
+
+.pve-equipment {
+  display: flex;
+  padding: 10px
+}
+
+.pve-equipment * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box
+}
+
+.pve-equipment .pve-box-right {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1
+}
+
+.pve-equipment .pve-box-left {
+  border-right: 2px solid #000;
+  margin-right: 8px
+}
+
+.pve-equipment .pve-armor,
+.pve-equipment .pve-trinkets {
+  display: flex;
+  flex-wrap: wrap;
+  width: 19em
+}
+
+.pve-equipment .pve-armor {
+  padding-left: 36px;
+  margin: 0 6px 14px 0
+}
+
+.pve-equipment .pve-weapons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px
+}
+
+.pve-equipment .pve-weaponsets {
+  display: flex
+}
+
+.pve-equipment .pve-weaponset {
+  display: flex;
+  flex-direction: column
+}
+
+.pve-equipment .pve-weaponset.second.single-weapon {
+  margin-left: -2em
+}
+
+.pve-equipment .pve-weaponset.first.single-weapon {
+  margin-right: -2em
+}
+
+.pve-equipment .pve-weaponset .weapons {
+  display: flex;
+  justify-content: space-around;
+  width: 180px
+}
+
+.pve-equipment .pve-weaponset .weapon-sigils img {
+  border: 2px solid #ffa405;
+  width: 42px
+}
+
+.pve-equipment .pve-weaponset .weapon-sigils {
+  display: flex;
+  justify-content: center;
+  width: 180px
+}
+
+.pve-equipment .pve-weaponset .weapon-sigils .sigil {
+  padding-right: 20px;
+  padding-top: 4px
+}
+
+.pve-equipment .weapon-swap-icon {
+  width: 1.5em;
+  margin-top: 1.5em;
+  margin-right: 1.5em
+}
+
+.pve-equipment .armor-upgrades {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  padding-top: 13px
+}
+
+.pve-equipment .armor-upgrades .pve-runes,
+.pve-equipment .armor-upgrades .pve-infusions {
+  display: flex;
+  flex-direction: column
+}
+
+.pve-equipment .armor-upgrades .armor-upgrade-name {
+  display: inline-block;
+  padding-left: 12px;
+  padding-top: 14px;
+  vertical-align: top;
+  font-size: 11px;
+  font-weight: bold
+}
+
+.pve-equipment .pve-weapon {
+  position: relative;
+  padding: 0 20px 4px 0;
+  height: 4.5em
+}
+
+.pve-equipment .pve-armor-upgrade {
+  position: relative;
+  padding-bottom: 16px
+}
+
+.pve-equipment-disabled .pve-weapon img:last-child,
+.pve-equipment .pve-armor-upgrade img:last-child {
+  vertical-align: unset;
+  position: absolute;
+  left: 34px;
+  top: 28px;
+  width: 25px;
+  border-radius: 50%;
+  border: 1px solid #bbb
+}
+
+.pve-equipment .sigil .sigil-img,
+.pve-equipment .rune .rune-img,
+.pve-equipment .infusion .infusion-img {
+  vertical-align: unset;
+  display: inline-block;
+  border: 2px solid #eee
+}
+
+.pve-equipment .ascended .item-img,
+.pve-equipment .sigil.ascended .sigil-img,
+.pve-equipment .rune.ascended .rune-img,
+.pve-equipment .infusion.ascended .infusion-img {
+  border-color: #fb3e8d!important
+}
+
+.pve-equipment .ascended {
+  color: #fb3e8d!important
+}
+
+.pve-equipment .exotic .item-img,
+.pve-equipment .sigil.exotic .sigil-img,
+.pve-equipment .rune.exotic .rune-img,
+.pve-equipment .infusion.exotic .infusion-img {
+  border-color: #ffa405!important
+}
+
+.pve-equipment .exotic {
+  color: #ffa405!important
+}
+
+.pve-equipment .rare .item-img,
+.pve-equipment .sigil.rare .sigil-img,
+.pve-equipment .rune.rare .rune-img,
+.pve-equipment .infusion.rare .infusion-img {
+  border-color: #fcd00b!important
+}
+
+.pve-equipment .rare {
+  color: #fcd00b!important
+}
+
+.pve-equipment .masterwork .item-img,
+.pve-equipment .sigil.masterwork .sigil-img,
+.pve-equipment .rune.masterwork .rune-img,
+.pve-equipment .infusion.masterwork .infusion-img {
+  border-color: #1a9306!important
+}
+
+.pve-equipment .masterwork {
+  color: #1a9306!important
+}
+
+.pve-equipment .fine .item-img,
+.pve-equipment .sigil.fine .sigil-img,
+.pve-equipment .rune.fine .rune-img,
+.pve-equipment .infusion.fine .infusion-img {
+  border-color: #62a4da!important
+}
+
+.pve-equipment .fine {
+  color: #62a4da!important
+}
+
+.pve-equipment .pve-armor-piece,
+.pve-equipment .pve-trinket {
+  position: relative;
+  padding: 0 20px 10px 20px;
+  height: 5em
+}
+
+.pve-equipment .item-img {
+  vertical-align: unset;
+  border-width: 2px;
+  border-style: solid;
+  width: 48px
+}
+
+.pve-equipment .pve-armor-piece img:nth-child(2),
+.pve-equipment .pve-trinket img:nth-child(2) {
+  vertical-align: unset;
+  position: absolute;
+  left: 48px;
+  top: 28px;
+  width: 25px;
+  border-radius: 50%;
+  border: 1px solid #bbb
+}
+
+.pve-equipment .pve-armor-piece .stat-icon,
+.pve-equipment .pve-trinket .stat-icon {
+  vertical-align: unset;
+  position: absolute;
+  left: 48px;
+  top: 28px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid rgba(150, 150, 150, 0.2);
+  background: radial-gradient(#000, rgba(60, 60, 60, 0.8) 60%);
+  padding: 1px
+}
+
+.pve-equipment .pve-weapon .stat-icon {
+  vertical-align: unset;
+  position: absolute;
+  left: 34px;
+  top: 28px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid rgba(150, 150, 150, 0.2);
+  background: radial-gradient(#000, rgba(60, 60, 60, 0.8) 60%);
+  padding: 1px
+}
+
+.pve-equipment .pve-armor-piece .stat-icon img,
+.pve-equipment .pve-trinket .stat-icon img,
+.pve-equipment .pve-weapon .stat-icon img {
+  vertical-align: unset;
+  border-radius: 50%;
+  border: none
+}
+
+.pve-equipment .pve-armor-piece:hover .stat-icon,
+.pve-equipment .pve-trinket:hover .stat-icon,
+.pve-equipment .pve-trinket:hover .trinket-upgrade,
+.pve-equipment .pve-weapon:hover .stat-icon {
+  box-shadow: 0px 0px 1px 1px #fff
+}
+
+.pve-equipment .pve-armor-piece:hover .item-img,
+.pve-equipment .pve-trinket:hover .item-img,
+.pve-equipment .pve-weapon:hover .item-img {
+  border-width: 2.5px;
+  box-shadow: 0.5px 0.5px 3px 0.5px rgba(255, 255, 255, 0.25)
+}
+
+.pve-equipment .pve-armor-piece:hover img:nth-child(2),
+.pve-equipment .pve-armor-piece:hover img:nth-child(5),
+.pve-equipment .pve-trinket:hover img:nth-child(2),
+.pve-equipment .pve-trinket:hover img:nth-child(5),
+.pve-equipment .pve-weapon:hover img:nth-child(2) {
+  border: 1px solid #fff;
+  box-shadow: 0px 0px 1px 1px #888888
+}
+
+.pve-equipment .pve-trinket .trinket-upgrade {
+  vertical-align: unset;
+  position: absolute;
+  left: 2px;
+  top: 28px;
+  width: 30px;
+  border-radius: 50%;
+  border: 1px solid #bbb
+}
+
+.pve-equipment .quantity {
+  font-family: sans-serif;
+  color: #e115ec;
+  font-weight: bold;
+  font-size: 0.78em;
+  position: absolute;
+  top: 32px;
+  left: 34px;
+  text-shadow: 1px 0 0 #eee, -1px 0 0 #eee, 0 1px 0 #eee, 0 -1px 0 #eee, 1px 1px #eee, -1px -1px 0 #eee, 1px -1px 0 #eee, -1px 1px 0 #eee;
+  cursor: default
+}
+
 /*-------------------------------------------------------------*/
 /* ## Pages
 /*-------------------------------------------------------------*/
