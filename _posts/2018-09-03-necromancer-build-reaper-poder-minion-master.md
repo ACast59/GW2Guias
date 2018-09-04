@@ -197,7 +197,7 @@ El necromancer minion master es una de la builds mas populares debido a la canti
     <div class="pve-box-right">
       <div class="pve-trinkets">
         <div class="pve-trinket ascended back">
-          <div class="item-img" data-armory-embed="items" data-armory-ids="79830" data-armory-size="44"></div>
+          <div class="item-img" data-armory-embed="items" data-armory-ids="79830" data-armory-79830-stat="656" data-armory-size="44"></div>
           <div class="stat-icon" title="Berserker">
             <img alt="Berserker stat icon.png" src="/assets/img/Berserker_stat_icon.png" width="25" height="25" />
           </div>
