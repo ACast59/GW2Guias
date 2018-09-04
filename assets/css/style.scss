@@ -3008,6 +3008,7 @@ header {
 }
 
 .pve-equipment .pve-box-left {
+  border-right: 2px solid #000;
   margin-right: 8px
 }
 
@@ -3020,7 +3021,6 @@ header {
 
 .pve-equipment .pve-armor {
   padding-left: 36px;
-  justify-content: center;
   margin: 0 6px 14px 0
 }
 
