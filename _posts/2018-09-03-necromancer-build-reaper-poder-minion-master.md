@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Necromancer Build: Reaper Power Minion Master"
+title:      "Necromancer Build: Reaper Poder Minion Master"
 date:       2018-09-03 22:03:00 -0400
 thumbnail:  /assets/img/entradas/guias/necromancer_minions_thumbnail.jpg
 image:      /assets/img/entradas/guias/necromancer_minions.jpg
@@ -79,9 +79,9 @@ El necromancer minion master es una de la builds mas populares debido a la canti
 <div data-armory-embed="specializations" data-armory-ids="2" data-armory-2-traits="820,858,842"></div>
 <div data-armory-embed="specializations" data-armory-ids="34" data-armory-34-traits="1974,2031,2021"></div>
 
-<h4>Variacion de Magia de Sangre</h4>
+<h4>Variacion de Magia de sangre</h4>
 
-<p>Magia de Sangre puede ser usada en ves de Rencor, perderas daño pero incrementaras tu supervivencia.</p>
+<p>Magia de sangre puede ser usada en ves de Rencor, perderas daño pero incrementaras tu supervivencia.</p>
 
 <div data-armory-embed="specializations" data-armory-ids="19" data-armory-19-traits="780,1844,778"></div>
 
