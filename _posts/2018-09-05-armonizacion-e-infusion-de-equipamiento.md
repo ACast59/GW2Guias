@@ -5,7 +5,7 @@ date:       2018-09-05 18:39:00 -0400
 thumbnail:  /assets/img/entradas/guias/armonizacion_e_infusion_de_equipamiento_thumbnail.jpg
 image:      /assets/img/entradas/guias/armonizacion_e_infusion_de_equipamiento.jpg
 category:   Guias
-tags:       [Forja Mistica, Objetos Ascendidos]
+tags:       [Fractals ,Forja Mistica, Objetos Ascendidos]
 ---
 
 <p>Infusion y armonizacion son los procesos con los cuales puedes agregar mas espacios de infusion a equipamiento ascendido, gracias a esto puedes aumentar la cantidad de resistencia a la agonia que te permitira sobrevivir en los niveles mas profundos de los Fractales de la Niebla. El proceso de infusion solo puede ser usado en anillos y espaldares mientras que la armonizacion solo puede ser aplicada a anillos.</p>
