@@ -2,8 +2,8 @@
 layout:     post
 title:      "Armonizacion e Insufion de Equipamiento"
 date:       2018-09-05 18:39:00 -0400
-thumbnail:  /assets/img/entradas/guias/armonizacion_e_infusion_de_equipamiento.jpg
-image:      /assets/img/entradas/guias/armonizacion_e_infusion_de_equipamiento_thumbnail.jpg
+thumbnail:  /assets/img/entradas/guias/armonizacion_e_infusion_de_equipamiento_thumbnail.jpg
+image:      /assets/img/entradas/guias/armonizacion_e_infusion_de_equipamiento.jpg
 category:   Guias
 tags:       [Forja Mistica, Objetos Ascendidos]
 ---
