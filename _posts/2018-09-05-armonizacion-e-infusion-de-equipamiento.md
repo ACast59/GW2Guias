@@ -56,4 +56,4 @@ tags:       [Forja Mistica, Objetos Ascendidos]
 
 <p>Para obtener <span class="embed-link"><span data-armory-embed="items" data-armory-ids="73381" data-armory-inline-text="wiki" data-armory-size="24"></span></span> debes entrenar la maestria "Canalizador de agonia", una ves que tengas esta maestria entra en el area general de los Fractales de la Niebla y interactua con un golem llamado "INFUZ-5959". <span class="embed-link"><span data-armory-embed="items" data-armory-ids="49424" data-armory-inline-text="wiki" data-armory-size="24"></span></span> puede ser obtenido en la casa de subastas por 1-2 monedas de plata. <span class="embed-link"><span data-armory-embed="items" data-armory-ids="20796" data-armory-inline-text="wiki" data-armory-size="24"></span></span> puedes comprar este objeto con un PnJ llamado "Miyani" que esta junto a la forja mistica.</p>
 
-<p>Una ves que tengas todos los materiales necesarios ve a la forja mistica y combinalos junto al anillo ascendido.</p>
+<p>Una ves que tengas todos los materiales necesarios ve a la forja mistica y combinalos junto al anillo ascendido que quieras armonizar.</p>
