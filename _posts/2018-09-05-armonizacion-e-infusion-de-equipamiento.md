@@ -30,7 +30,7 @@ tags:       [Forja Mistica, Objetos Ascendidos]
   <li>250 <span class="embed-link"><span data-armory-embed="items" data-armory-ids="19721" data-armory-inline-text="wiki" data-armory-size="24"></span></span></li>
 </ul>
 
-<p>Una ves que tengas todos los materiales necesarios ve a la forja mistica y combinalos junto al objeto de espalda ascendido. Objetos que necesitan una expansion, incluyendo Raids y Mundo Viviente usan <span class="embed-link"><span data-armory-embed="items" data-armory-ids="38024" data-armory-inline-text="wiki" data-armory-size="24"></span></span>, los demas usan <span class="embed-link"><span data-armory-embed="items" data-armory-ids="38023" data-armory-inline-text="wiki" data-armory-size="24"></span></span>.</p>
+<p>Una ves que tengas todos los materiales necesarios ve a la forja mistica y combinalos junto al objeto de espalda ascendido que quieras infundir. Objetos que necesitan una expansion, incluyendo Raids y Mundo Viviente usan <span class="embed-link"><span data-armory-embed="items" data-armory-ids="38024" data-armory-inline-text="wiki" data-armory-size="24"></span></span>, los demas usan <span class="embed-link"><span data-armory-embed="items" data-armory-ids="38023" data-armory-inline-text="wiki" data-armory-size="24"></span></span>.</p>
 
 <h4>Infusion de Anillos</h4>
 
@@ -42,7 +42,7 @@ tags:       [Forja Mistica, Objetos Ascendidos]
   <li>1 <span class="embed-link"><span data-armory-embed="items" data-armory-ids="38024" data-armory-inline-text="wiki" data-armory-size="24"></span></span></li>
 </ul>
 
-<p>Una ves que tengas todos los materiales necesarios ve a la forja mistica y combinalos junto al anillo ascendido.</p>
+<p>Una ves que tengas todos los materiales necesarios ve a la forja mistica y combinalos junto al anillo ascendido que quieras infundir.</p>
 
 <h3>Armonizar</h3>
 
