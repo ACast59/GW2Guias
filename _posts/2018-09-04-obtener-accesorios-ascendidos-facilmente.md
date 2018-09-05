@@ -2,8 +2,8 @@
 layout:     post
 title:      "Guia: Obtener Accesorios Ascendidos Facilmente"
 date:       2018-09-04 20:29:00 -0400
-thumbnail:  /assets/img/entradas/guias/obtener_accesorios_ascendidos_facilmente.png
-image:      /assets/img/entradas/guias/obtener_accesorios_ascendidos_facilmente_thumbnail.png
+thumbnail:  /assets/img/entradas/guias/obtener_accesorios_ascendidos_facilmente_thumbnail.png
+image:      /assets/img/entradas/guias/obtener_accesorios_ascendidos_facilmente.png
 category:   Guias
 tags:       [Mundo Abierto, Objetos Ascendidos]
 ---
