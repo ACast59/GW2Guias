@@ -44,8 +44,6 @@ tags:       [Mundo Abierto, Objetos Ascendidos]
   </li>
 </ul>
 
-<br />
-
 <p><strong>Importante!:</strong> Para poder equiparte dos anillos ascendidos iguales tendras que armonizar uno de ellos, esto se puede hacer facilmente <a href="#" title="Guia: Como armonizar anillos">siguiendo esta guia</a>.</p>
 
 <p>La razon por la cual podemos obtener 4 de los 6 accesorios necesarios solo en este mapa es por que <span class="embed-link"><span data-armory-embed="items" data-armory-ids="79899" data-armory-inline-text="wiki" data-armory-size="24"></span></span> es increiblemente facil de recolectar, en un dia puedes obtener alrededor de 60 de ellas al hacer las misiones diarias y recolectar los nodos disponibles.</p>
