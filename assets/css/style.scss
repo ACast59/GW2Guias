@@ -2417,6 +2417,34 @@ header {
   margin: 0 auto;
 }
 
+.post-content > ul > li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.quick-links {
+  display: inline-block;
+  background: #333;
+  padding: 15px 20px;
+  border-radius: 3px;
+  margin-bottom: 25px;
+}
+
+.quick-links h3 {
+  color:#fff;
+  margin:0 0 5px;
+}
+
+.quick-links ul {
+  list-style-type: square;
+  color: #fff;
+  padding-left: 25px;
+  margin: 0;
+}
+
+.quick-links li {
+  font-weight:600;
+}
+
 .post-tags {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
