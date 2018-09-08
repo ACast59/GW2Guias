@@ -8,6 +8,8 @@ category:   Guias
 tags:       [Fractals, Artesanias]
 ---
 
+<p style="display:inline-block;">Fractales de la Niebla son uno de los contenidos mas interesantes y divertidos del juego, y son sorpresivamente accesibles. Hay una creencia popular que asume que las Fractales son contenido end-game y jugadores nuevos son intimidados a la hora de empezar a jugarlos. En realidad, Fractales tienen un sistema de Rangos con una curva de dificultad muy gentil. El sistema de avance puede parecer difícil cuando es visto por primera ves, pero solo parece muy complicado si tratas de entender todo al mismo tiempo. Todos los jugadores deberían participar en Fractales al menos una ves, por que son una gran parte del juego con contenido muy rejugable.</p>
+
 <div class="quick-links">
   <h3>Contenido</h3>
   <ul>
@@ -20,8 +22,6 @@ tags:       [Fractals, Artesanias]
     <li><a href="#parte-7">7. Conclusión: En que gasto mis Reliquias de Fractales?</a></li>
   </ul>
 </div>
-
-<p>Fractales de la Niebla son uno de los contenidos mas interesantes y divertidos del juego, y son sorpresivamente accesibles. Hay una creencia popular que asume que las Fractales son contenido end-game y jugadores nuevos son intimidados a la hora de empezar a jugarlos. En realidad, Fractales tienen un sistema de Rangos con una curva de dificultad muy gentil. El sistema de avance puede parecer difícil cuando es visto por primera ves, pero solo parece muy complicado si tratas de entender todo al mismo tiempo. Todos los jugadores deberían participar en Fractales al menos una ves, por que son una gran parte del juego con contenido muy rejugable.</p>
 
 <p>Esta guía explicara el avance general de los Fractales, que aprender a que Rango, y que tipo de equipamiento necesitaras para cada Rango. Todo estará dividido en secciones para evitar abrumar los lectores con mucha información. Si algo no es relevante hasta el Rango 2, no sera mencionado hasta que estés en el Rango 2. El avance de equipamiento recomendado esta diseñado para permitir un avance regular en los Fractales, y mantener los objetos con mayor costo al final.</p>
 
