@@ -5,23 +5,26 @@ date:       2018-09-07 20:19:00 -0400
 thumbnail:  /assets/img/entradas/guias/guia-completa-fractales-de-la-niebla-para-principiantes_thumbnail.jpg
 image:      /assets/img/entradas/guias/guia-completa-fractales-de-la-niebla-para-principiantes.jpg
 category:   Guias
-tags:       [Fractals, Artesanias]
+tags:       [Fractals]
 ---
 
-<p style="display:inline-block;">Fractales de la Niebla son uno de los contenidos mas interesantes y divertidos del juego, y son sorpresivamente accesibles. Hay una creencia popular que asume que las Fractales son contenido end-game y jugadores nuevos son intimidados a la hora de empezar a jugarlos. En realidad, Fractales tienen un sistema de Rangos con una curva de dificultad muy gentil. El sistema de avance puede parecer difícil cuando es visto por primera ves, pero solo parece muy complicado si tratas de entender todo al mismo tiempo. Todos los jugadores deberían participar en Fractales al menos una ves, por que son una gran parte del juego con contenido muy rejugable.</p>
+<p>Fractales de la Niebla son uno de los contenidos mas interesantes y divertidos del juego, y son sorpresivamente accesibles. Hay una creencia popular que asume que las Fractales son contenido end-game y jugadores nuevos son intimidados a la hora de empezar a jugarlos. En realidad, Fractales tienen un sistema de Rangos con una curva de dificultad muy gentil. El sistema de avance puede parecer difícil cuando es visto por primera ves, pero solo parece muy complicado si tratas de entender todo al mismo tiempo. Todos los jugadores deberían participar en Fractales al menos una ves, por que son una gran parte del juego con contenido muy rejugable.</p>
 
 <div class="quick-links">
   <h3>Contenido</h3>
   <ul>
-    <li><a href="#parte-1">1. Prologo: Planear para el Futuro</a></li>
-    <li><a href="#parte-2">2. Rango 1: Aprendiendo lo Básico</a></li>
-    <li><a href="#parte-3">3. Rango 2: Ya no eres un novato!</a></li>
-    <li><a href="#parte-4">4. Rango 3: Grupos Infernales</a></li>
-    <li><a href="#parte-5">5. Rango 4: Muestra tu Experiencia</a></li>
-    <li><a href="#parte-6">6. Rango 4: Modo Competitivo y mas Allá</a></li>
-    <li><a href="#parte-7">7. Conclusión: En que gasto mis Reliquias de Fractales?</a></li>
+    <li><a href="#parte-1">1. Prologo: Pre-requisitos</a></li>
+    <li><a href="#parte-2">2. Introducción: Planear para el Futuro</a></li>
+    <li><a href="#parte-3">3. Rango 1: Aprendiendo lo Básico</a></li>
+    <li><a href="#parte-4">4. Rango 2: Ya no eres un novato!</a></li>
+    <li><a href="#parte-5">5. Rango 3: Grupos Infernales</a></li>
+    <li><a href="#parte-6">6. Rango 4: Muestra tu Experiencia</a></li>
+    <li><a href="#parte-7">7. Rango 4: Modo Competitivo y mas Allá</a></li>
+    <li><a href="#parte-8">8. Conclusión: En que gasto mis Reliquias de Fractales?</a></li>
   </ul>
 </div>
+
+<h3 id="parte-1">Prologo: Pre-requisitos</h3>
 
 <p>Esta guía explicara el avance general de los Fractales, que aprender a que Rango, y que tipo de equipamiento necesitaras para cada Rango. Todo estará dividido en secciones para evitar abrumar los lectores con mucha información. Si algo no es relevante hasta el Rango 2, no sera mencionado hasta que estés en el Rango 2. El avance de equipamiento recomendado esta diseñado para permitir un avance regular en los Fractales, y mantener los objetos con mayor costo al final.</p>
 
@@ -37,7 +40,7 @@ tags:       [Fractals, Artesanias]
   <li>Nivel 4, "Singularidades de Bloqueo de la Niebla" te permite obtener mas bonos de las pociones Fractales, particularmente una que explicare mas tarde llamada <span class="embed-link"><span data-armory-embed="items" data-armory-ids="70596" data-armory-inline-text="wiki" data-armory-size="24"></span></span> pero lo mas importante es que podrás interactuar con las Singularidades de Bloqueo de la Niebla para obtener lo que es esencialmente una vida extra. Cuando estés bajo los efectos de la singularidad, la siguiente ves que seas derrotado, en ves de caer seras invencible por un corto periodo de tiempo y seras curado por 25% de tu vida instantáneamente. Las singularidades también recargaras todas tus habilidades instantáneamente.</li>    
 </ul>
 
-<h3 id="parte-1">Prologo: Planear para el Futuro</h3>
+<h3 id="parte-2">Introducción: Planear para el Futuro</h3>
 
 <p><strong>No necesitas equipamiento especial para empezar a hacer Fractales, pero hay algunas cosas que puedes empezar a hacer ahora para ahorrar tiempo en el futuro.</strong></p>
 
@@ -51,7 +54,7 @@ tags:       [Fractals, Artesanias]
 
 <p>Hay muchas formas de adquirir equipamiento ascendido, pero describir en detalle todas las formas de obtenerlos duplicaría el tamaño de esta guía. Están las Colecciones de Especializaciones, Caballero de la Espina, PvP y WvW. Habiendo dicho esto, esta guía asumirá que eres un jugador PvE exclusivo y te enfocas en equipamiento que puedes obtener de esta manera.</p>
 
-<h3 id="parte-2">Rango 1: Aprendiendo lo Básico</h3>
+<h3 id="parte-3">Rango 1: Aprendiendo lo Básico</h3>
 
 <p>Puedes empezar por el Rango 1 de Fractales, no tienen ningún requerimiento especial y equipamiento exótico sera suficiente. Cuando te unas a un grupo haz claro que eres principiante, pero en la mayoría de los casos esto es asumido cuando buscas hacer Fractales de Rango 1.</p>
 
@@ -77,7 +80,7 @@ tags:       [Fractals, Artesanias]
 
 <p>En los Fractales de la Niebla tienes algo llamado "Nivel de Fractales personal". Esto incrementa por 1 nivel cada ves que juegas un Fractal del mismo nivel o mayor al tuyo. Tus recompensas en todos los Fractales mejoran a medida que tu nivel personal incrementa, pero el Nivel de Fractales personal no te permite jugar Fractales de nivel alto sin protección. Para eso tenemos la Resistencia a la Agonía.</p>
 
-<h3 id="parte-3">Rango 2: Ya no eres un novato!</h3>
+<h3 id="parte-4">Rango 2: Ya no eres un novato!</h3>
 
 <p>Bienvenido al Rango 2! Ademas de mas altos niveles de Agonía, también empezaras a jugar con las Singularidades de Bloqueo de la Niebla. Estos son mecánicas que alteraran dramáticamente la dificulta de un Fractal. Cada Fractal de Rango 2 tendrá una "Inestabilidad" activa. Querrás aprenderte las mecánicas de los encuentros con jefes y mecánicas generales, por que estas Inestabilidades harán que sean mas difíciles de seguir.</p>
 
@@ -103,7 +106,7 @@ tags:       [Fractals, Artesanias]
 
 <p>Asegúrate de leer nuestra guía acerca de <a href="/guias/armonizacion-e-infusion-de-equipamiento/">Como Infundir anillos y objetos de espalda</a> si aun no tienes los materiales necesarios para crear equipamiento ascendido.</p>
 
-<h3 id="parte-4">Rango 3: Grupos Infernales</h3>
+<h3 id="parte-5">Rango 3: Grupos Infernales</h3>
 
 <p>Felicitaciones al haber terminado el Rango 2! Ahora viene lo peor de los Fractales. No solo la Resistencia a la Agonía es cara aquí, no hay razón alguna para hacer Rango 3 a menos que trates de llegar al Rango 4. Esto significa que frecuentemente estarás en grupos con jugadores sin experiencia, jugadores que han sido cargados o ignoran mecánicas. Por suerte, tu has estado prestando atención y practicando antes de llegar a este punto, así que no seras una carga para tu grupo. En el Rango 3 tendrás que lidiar no con una Inestabilidad sino dos de ellas al mismo tiempo en cada nivel. También hay otro Fractal Recomendado Diario, dejando tu lista de diarias a hacer en seis Fractales en total.</p>
 
@@ -115,7 +118,7 @@ tags:       [Fractals, Artesanias]
 
 <p>La pechera es la pieza mas cara y consumirá la mayor cantidad de recursos que solo pueden obtenerse diariamente, así que es recomendado que lo guardes para el final. Cada pieza que obtengas te ayudara a alcanzar el Rango 4 mas y mas. Cuando tengas las 5 piezas con <span class="embed-link"><span data-armory-embed="items" data-armory-ids="49432" data-armory-inline-text="wiki" data-armory-size="24"></span></span> podrás llegar al final!</p>
 
-<h3 id="parte-5">Rango 4: Muestra tu Experiencia</h3>
+<h3 id="parte-6">Rango 4: Muestra tu Experiencia</h3>
 
 <p>Bienvenido al Rango 4! Aquí, grupos frecuentemente estarán compuestos de jugadores experimentados completando sus diarias. Tendrás que lidiar con tres Inestabilidades en este rango. Grupos también esperaran que estés bajo los efectos de las Pociones de Fractales grandes (<span class="embed-link"><span data-armory-embed="items" data-armory-ids="71659" data-armory-inline-text="wiki" data-armory-size="24"></span></span>, <span class="embed-link"><span data-armory-embed="items" data-armory-ids="76150" data-armory-inline-text="wiki" data-armory-size="24"></span></span> y <span class="embed-link"><span data-armory-embed="items" data-armory-ids="75427" data-armory-inline-text="wiki" data-armory-size="24"></span></span>), grupos en el buscador con la palabra "pots" en su titulo se refieren a esto. Guarda las que obtienes al hacer los Fractales Recomendados Diarios para los del siguiente día. No hay misiones de Fractales de Rango 4 disponibles.</p>
 
@@ -123,7 +126,7 @@ tags:       [Fractals, Artesanias]
 
 <p>Misiones diarias de Rango 4 son una excelente fuente de oro (aproximadamente 20 Oro al día si vendes los materiales de las encripciones), y frecuentemente recibirás loot de materiales necesarios para crear equipamiento ascendido (Cajas de Armaduras y Armas ascendidas son aun mas frecuentes en cofres de Rango 4). Obtendrás muchos materiales de los Fractales, esto hará que equipar tus otros personajes sea mas fácil. Obtener los últimos 15 Resistencia a la Agonía para dejar de usar la <span class="embed-link"><span data-armory-embed="items" data-armory-ids="70596" data-armory-inline-text="wiki" data-armory-size="24"></span></span> sera muy simple. Puedes obtener otros 9 Resistencia a la Agonía al crear tu pechera, pero esos últimos 6 Resistencia a la Agonía tendrán que venir de tu arma ascendida o cambiar 6 de tus <span class="embed-link"><span data-armory-embed="items" data-armory-ids="49432" data-armory-inline-text="wiki" data-armory-size="24"></span></span> por <span class="embed-link"><span data-armory-embed="items" data-armory-ids="49433" data-armory-inline-text="wiki" data-armory-size="24"></span></span>. Estas son el doble de caras así que elige con cuidado.</p>
 
-<h3 id="parte-6">Rango 4: Modo Competitivo y mas Allá</h3>
+<h3 id="parte-7">Rango 4: Modo Competitivo y mas Allá</h3>
 
 <p>Una ves que estés completamente equipado, tienes toda tu Resistencia a la Agonía, sabes como manejar todas las Inestabilidades y las mecánicas, podrás entrar en el Modo Competitivo. Estos Fractales son versiones intensas del Nivel 99 y Nivel 100. No están diseñadas para jugadores sensibles. Estos Fractales son básicamente Raids de 5 personas, y a diferencia de Raids regulares aquí tendrás que lidiar con las Inestabilidades. Habiendo dicho esto, Fractales Competitivas agregan otra recompensa diaria y vienen con objetos de prestigio como las Infusiones Celestiales, también otorgan 2 <span class="embed-link"><span data-armory-embed="items" data-armory-ids="73834" data-armory-inline-text="wiki" data-armory-size="24"></span></span> adicionales.</p>
 
@@ -131,7 +134,7 @@ tags:       [Fractals, Artesanias]
 
 <p>Es recomendado hacer estos Fractales con un clan o amigos con chat de voz, y definitivamente aprendete las mecánicas. Cada encuentro en el Modo Competitivo es mucho mas difícil que su contra-parte en dificultad normal. Una sola <span class="embed-link"><span data-armory-embed="items" data-armory-ids="81743" data-armory-inline-text="wiki" data-armory-size="24"></span></span> puede ayudarte a la hora de conseguir grupos rápidamente, y al obtenerla puedes considerarte un experto en los Fractales de la Niebla.</p>
 
-<h3 id="parte-7">Conclusión: En que gasto mis Reliquias de Fractales?</h3>
+<h3 id="parte-8">Conclusión: En que gasto mis Reliquias de Fractales?</h3>
 
 <p>Aparte de obtener oro, materiales, y equipamiento ascendido, Fractales te otorgan muchas <a href="https://wiki-es.guildwars2.com/wiki/Reliquia_fractal" title="Reliquia fractal prístina" class="embed-link"><img alt="Reliquia fractal prístina" src="Pristine_Fractal_Relic.png" width="25" height="25" /></a> <a href="https://wiki-es.guildwars2.com/wiki/Reliquia_fractal" title="gw2:Reliquia fractal">Reliquia Fractal Prístina</a> (y Reliquia Fractal regulares). Recomendaría solo gastarlas en las cosas mencionadas en la guía hasta que llegues al Nivel Personal 100. Una ves que hagas eso, hay muchas cosas que puedes comprar:</p>
 
