@@ -28,7 +28,7 @@ tags:       [Fractals]
 
 <p>Esta guía explicara el avance general de los Fractales, que aprender a que Rango, y que tipo de equipamiento necesitaras para cada Rango. Todo estará dividido en secciones para evitar abrumar los lectores con mucha información. Si algo no es relevante hasta el Rango 2, no sera mencionado hasta que estés en el Rango 2. El avance de equipamiento recomendado esta diseñado para permitir un avance regular en los Fractales, y mantener los objetos con mayor costo al final.</p>
 
-<p><strong>Esta guía asume que no tienes equipamiento ascendido, poco oro, y nada de experiencia en Fractales. Tu definitivamente deberías entrenar la maestría Sintonía fractal completamente. Esta guía asumirá que lo has hecho ya que es algo relativamente fácil, requiere solo once Puntos de Maestrías, y ofrece los siguientes bonos importantes:</strong></p>
+<p><strong>Esta guía asume que no tienes equipamiento ascendido, poco oro, y ninguna experiencia en Fractales. Tu definitivamente deberías entrenar la maestría Sintonía fractal completamente. Esta guía asumirá que lo has hecho ya que es algo relativamente fácil, requiere solo once Puntos de Maestrías, y ofrece los siguientes bonos importantes:</strong></p>
 
 <ul>
   <li>Nivel 1, "Sigue los consejos" te la la habilidad de obtener todos los cofres diarios por día. Sin esto, obtendrás menos recompensas.</li>
