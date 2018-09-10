@@ -2445,6 +2445,78 @@ header {
   font-weight:600;
 }
 
+.post-content .inline-img {
+  display: inline-block !important;
+}
+
+.post-content .not-available {
+  color: #aaa;
+  text-decoration: line-through;
+}
+
+.post-content table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.post-content td, th {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid #dddddd;
+}
+
+.post-content tr:not(:first-child) {
+  border-right: 1px solid #dddddd;
+  border-left: 1px solid #dddddd;
+}
+
+.post-content tr:nth-child(even) {
+    background-color: #eee;
+}
+
+.post-content tr th {
+  background: #333;
+  color: #fff;
+  border: 1px solid #aaa;
+}
+
+.post-content tr th:first-child {
+  border-left: 1px solid #333;
+}
+
+.post-content tr th:nth-child(2) {
+  width: 15%;
+  font-weight: 700;
+  text-align: center;
+}
+
+.post-content tr th:nth-child(3) {
+  width: 15%;
+  text-align: center;
+}
+
+.post-content tr th:last-child {
+  border-right: 1px solid #333;
+}
+
+.post-content tr td:first-child {
+  width: 18%;
+  font-weight: 700;  
+}
+
+.post-content tr td:nth-child(2) {
+  width: 10%;
+  color: #FF00BF;
+  font-weight: 700;
+  text-align: center;
+}
+
+.post-content tr td:nth-child(3) {
+  width: 10%;
+  text-align: center;
+}
+
 .post-tags {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
