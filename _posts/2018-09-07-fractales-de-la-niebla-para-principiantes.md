@@ -62,7 +62,7 @@ tags:       [Fractals]
 
 <p>Jugar con una build fuerte ayuda mucho en Fractales. A medida que avanzas, Dureza y Vitalidad pierden valor dramáticamente. También, es mejor no jugar con una build de Concentración soporte o Daño condicional debido a que equipamiento exótico para Concentración o Duración de condición es caro y vas a ir reemplazándolo con equipo ascendido de todas formas. Eso deja a las build de tipo <strong>Berserker Poder DPS</strong> y <strong>Magi Healer</strong> como las builds recomendadas al empezar a hacer Fractales.</p>
 
-<p>Si quieres saber que significa "Berserker", "Magi", puedes leer la siguiente entrada: <a href="#">Diferentes Tipos de Atributos y sus Nombres</a>.</p>
+<p>Si quieres saber que significa "Berserker", "Magi", puedes leer la siguiente entrada: <a href="/guias/diferentes-tipos-de-atributos-y-sus-nombres/">Diferentes Tipos de Atributos y sus Nombres</a>.</p>
 
 <p>Fractales son similares a Mazmorras u otro tipo de contenido de instancias, con un enfoque en mecánicas, peleas de jefes, y mecánicas durante pelea de jefes. Eres libre y es recomendado que te familiarices con las mecánicas de las Fractales diarias antes de tratar de completarlas. Asegúrate de hacer preguntas si no entiendes algunas mecánicas. Muchos errores que son fácilmente perdonados en Rango 1 causaran la muerte de todo tu grupo en Rango 4.</p>
 
