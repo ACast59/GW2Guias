@@ -8,9 +8,9 @@ category:   Guias
 tags:       [Artesanias, Objetos Ascendidos]
 ---
 
-<p>Frecuentemente en esta pagina o en otros sitios te encontraras guias que te piden que uses equipamiento de tipo <strong>"Berserker"</strong> o <strong>"Viper"</strong>, si aun no sabes que significa esto, es muy simple. En GW2 hay algo llamado <strong>Prefijos</strong> y estos determinan que tipo atributos tendra tu equipamiento, por ejemplo el prefijo <strong>Berserker</strong> significa que el equipamiento tendra los atributos de <strong>Potencia</strong>, <strong>Presicion</strong> y <strong>Ferocidad</strong> mientras que el prefijo <strong>Viper</strong> tendra los atributos de <strong>Potencia</strong>, <strong>Daño de condición</strong>, <strong>Precisión</strong> y <strong>Pericia</strong>.</p>
+<p>Frecuentemente en esta pagina o en otros sitios te encontraras guías que te piden que uses equipamiento de tipo <strong>"Berserker"</strong> o <strong>"Viper"</strong>, si aun no sabes que significa esto, es muy simple. En GW2 hay algo llamado <strong>Prefijos</strong> y estos determinan que tipo atributos tendrá tu equipamiento, por ejemplo el prefijo <strong>Berserker</strong> significa que el equipamiento tendrá los atributos de <strong>Potencia</strong>, <strong>Precisión</strong> y <strong>Ferocidad</strong> mientras que el prefijo <strong>Viper</strong> tendrá los atributos de <strong>Potencia</strong>, <strong>Daño de condición</strong>, <strong>Precisión</strong> y <strong>Pericia</strong>.</p>
 
-<p>Los equipos ascendidos son una notable excepcion a esta regla y esto se debe a que ellos estan nombrados tras un personaje notorio de Guild Wars 2, por ejemplo el prefijo <strong>Berserker</strong> en equipamiento ascendido es llamado <strong>Zojja</strong>, y el prefijo <strong>Viper</strong> es llamado <strong>Yassith</strong>, aqui esta una lista completa de todas las combinaciones de atributos, sus nombres de prefijo y nombres ascendidos:</p>
+<p>Los equipos ascendidos son una notable excepción a esta regla y esto se debe a que ellos están nombrados tras un personaje notorio de Guild Wars 2, por ejemplo el prefijo <strong>Berserker</strong> en equipamiento ascendido es llamado <strong>Zojja</strong>, y el prefijo <strong>Viper</strong> es llamado <strong>Yassith</strong>, aquí esta una lista completa de todas las combinaciones de atributos, sus nombres de prefijo y nombres ascendidos:</p>
 
 <table style="width:100%">
   <tr>
@@ -23,11 +23,11 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Berserker</td>
     <td>Zojja</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia</td>
-    <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Precisión"> + Ferocidad</td>
+    <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad</td>
   </tr>
   <tr>
     <td>Zelote (Zealot)</td>
-    <td>Guardian (Keeper)</td>
+    <td>Guardián (Keeper)</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia</td>
     <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
   </tr>
@@ -41,10 +41,10 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Valquiria (Valkyrie)</td>
     <td>Gobrech</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia</td>
-    <td><img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Precisión"> + Ferocidad</td>
+    <td><img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad</td>
   </tr>
   <tr>
-    <td>Capitan (Captain)</td>
+    <td>Capitán (Captain)</td>
     <td><span class="not-available">Ninguno</span></td>
     <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia y <img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza</td>
@@ -59,7 +59,7 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Asesino (Assassin)</td>
     <td>Saphir</td>
     <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión</td>
-    <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Precisión"> + Ferocidad</td>
+    <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad</td>
   </tr>
   <tr>
     <td>Caballero (Knight)</td>
@@ -71,10 +71,10 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Jinete (Cavalier)</td>
     <td>Angchu</td>
     <td><img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza</td>
-    <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Precisión"> + Ferocidad</td>
+    <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad</td>
   </tr>
   <tr>
-    <td>Nomada (Nomad)</td>
+    <td>Nómada (Nomad)</td>
     <td>Ventari</td>
     <td><img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza</td>
     <td><img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad y <img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
@@ -89,7 +89,7 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Donador (Giver)</td>
     <td>Tixx</td>
     <td><img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza</td>
-    <td><img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentracion"> + Concentracion y <img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
+    <td><img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentración"> + Concentración y <img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
   </tr>
   <tr>
     <td>Centinela (Sentinel)</td>
@@ -134,7 +134,7 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad</td>
   </tr>
   <tr>
-    <td>Clerigo (Cleric)</td>
+    <td>Clérigo (Cleric)</td>
     <td>Tateos</td>
     <td><img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia y <img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza</td>
@@ -155,34 +155,34 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Comandante (Commander)</td>
     <td>Tizlak</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia <br /> <img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión</td>
-    <td><img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentracion"> + Concentracion</td>
+    <td><img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentración"> + Concentración</td>
   </tr>
   <tr>
     <td>Salteador (Marauder)</td>
     <td>Svaard</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia <br /> <img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión</td>
-    <td><img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Precisión"> + Ferocidad y <img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad</td>
+    <td><img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad y <img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad</td>
   </tr>
   <tr>
     <td>Vigilante (Vigilant)</td>
     <td>Laranthir</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia <br /> <img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza</td>
-    <td><img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentracion"> + Concentracion y <img  class="inline-img" src="/assets/img/Pericia.png" alt="Pericia"> + Pericia</td>
+    <td><img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentración"> + Concentración y <img  class="inline-img" src="/assets/img/Pericia.png" alt="Pericia"> + Pericia</td>
   </tr>
   <tr>
     <td>Cruzado (Crusader)</td>
     <td>Ossa</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia <br /> <img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza</td>
-    <td><img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Precisión"> + Ferocidad y <img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
+    <td><img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad y <img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
   </tr>
   <tr>
     <td>Peregrino (Wanderer)</td>
     <td>Ruka</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia <br /> <img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad</td>
-    <td><img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentracion"> + Concentracion</td>
+    <td><img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentración"> + Concentración</td>
   </tr>
   <tr>
-    <td>Vibora (Viper)</td>
+    <td>Víbora (Viper)</td>
     <td>Yassith</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia <br /> <img  class="inline-img" src="/assets/img/Daño_de_condicion.png" alt="Daño de condición"> + Daño de condición</td>
     <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img  class="inline-img" src="/assets/img/Pericia.png" alt="Pericia"> + Pericia</td>
@@ -191,7 +191,7 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Afligido (Grieving)</td>
     <td>Gemelos (The Twins)</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia <br /> <img  class="inline-img" src="/assets/img/Daño_de_condicion.png" alt="Daño de condición"> + Daño de condición</td>
-    <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Precisión"> + Ferocidad</td>
+    <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad</td>
   </tr>
   <tr>
     <td>Expedicionario (Trailblazer)</td>
@@ -203,19 +203,19 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Juglar (Minstrel)</td>
     <td>Maklain</td>
     <td><img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza <br /> <img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
-    <td><img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentracion"> + Concentracion</td>
+    <td><img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentración"> + Concentración</td>
   </tr>
   <tr>
-    <td>Serafin (Seraph)</td>
+    <td>Serafín (Seraph)</td>
     <td><span class="not-available">Ninguno</span></td>
     <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión  <br /> <img  class="inline-img" src="/assets/img/Daño_de_condicion.png" alt="Daño de condición"> + Daño de condición</td>
-    <td><img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentracion"> + Concentracion</td>
+    <td><img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentración"> + Concentración</td>
   </tr>
   <tr>
     <td>Hostigador (Harrier)</td>
     <td>Zehtuka</td>
     <td><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia</td>
-    <td><img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentracion"> + Concentracion</td>
+    <td><img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentración"> + Concentración</td>
   </tr>
   <tr>
     <td>Mariscal (Marshal)</td>
@@ -227,11 +227,11 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Medico de la Plaga (Plaguedoctor)</td>
     <td>Nerashi</td>
     <td><img  class="inline-img" src="/assets/img/Daño_de_condicion.png" alt="Daño de condición"> + Daño de condición <br /> <img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad</td>
-    <td><img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentracion"> + Concentracion</td>
+    <td><img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación y <img  class="inline-img" src="/assets/img/Concentracion.png" alt="Concentración"> + Concentración</td>
   </tr>
   <tr>
     <td>Celestial</td>
     <td>Wupwup</td>
-    <td colspan="2"><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia, <img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión, <img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza, <img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad, <img  class="inline-img" src="/assets/img/Daño_de_condicion.png" alt="Daño de condición"> + Daño de condición, <img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Precisión"> + Ferocidad</td>
+    <td colspan="2"><img  class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia, <img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión, <img  class="inline-img" src="/assets/img/Dureza.png" alt="Dureza"> + Dureza, <img  class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad, <img  class="inline-img" src="/assets/img/Daño_de_condicion.png" alt="Daño de condición"> + Daño de condición, <img  class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación y <img  class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad</td>
   </tr>
 </table>
