@@ -2,8 +2,8 @@
 layout:     post
 title:      "Diferentes Tipos de Atributos y sus Nombres"
 date:       2018-09-09 22:57:00 -0400
-thumbnail:  /assets/img/entradas/guias/diferentes_tipos_de_atributos_y_sus_nombres_thumbnail.jpg
-image:      /assets/img/entradas/guias/diferentes_tipos_de_atributos_y_sus_nombres.jpg
+thumbnail:  /assets/img/entradas/guias/diferentes_tipos_de_atributos_y_sus_nombres_thumbnail.png
+image:      /assets/img/entradas/guias/diferentes_tipos_de_atributos_y_sus_nombres.png
 category:   Guias
 tags:       [Artesanias, Objetos Ascendidos]
 ---
