@@ -2527,7 +2527,11 @@ header {
   -moz-columns: 2;
 }
 
-.material-list li {
+.material-list > li:not(:last-child)  {
+  margin-bottom: 5px;
+}
+
+.quick-links .material-list li {
   margin-right: 10px;
 }
 
