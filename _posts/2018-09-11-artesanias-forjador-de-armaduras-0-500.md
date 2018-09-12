@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Guia Artesanias: Forjador de Armaduras 0-500"
+title:      "Artesanias: Forjador de Armaduras 0-500"
 date:       2018-09-11 22:36:00 -0400
 thumbnail:  /assets/img/entradas/guias/guia-artesanias-forjador-de-armaduras-0-500_thumbnail.jpg
 image:      /assets/img/entradas/guias/guia-artesanias-forjador-de-armaduras-0-500.jpg
