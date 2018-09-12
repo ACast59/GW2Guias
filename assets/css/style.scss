@@ -2517,6 +2517,28 @@ header {
   text-align: center;
 }
 
+.uk-bold {
+  font-weight: 700;
+}
+
+.material-list {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+.material-list li {
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 580px) {
+  .material-list {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+  }
+}
+
 .post-tags {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
