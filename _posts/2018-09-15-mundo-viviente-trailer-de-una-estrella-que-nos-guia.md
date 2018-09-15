@@ -46,4 +46,4 @@ hidden:     true
 
 <h3>Dominio: Vínculo de vigor</h3>
 
-<p>Desbloquead la habilidad para incrementar temporalmente la regeneración de aguante de tu montura.</p>
+<p>Desbloquea la habilidad para incrementar temporalmente la regeneración de aguante de tu montura.</p>
