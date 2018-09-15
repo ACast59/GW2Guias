@@ -14,33 +14,33 @@ hidden:     true
 
 <h3>Nuevo Mapa: Acantilados de Jahai</h3>
 
-<img src="/assets/img/entradas/noticias/acantilados_de_jahai.png" alt="Acantilados de Jahai">
+<img src="/assets/img/entradas/noticias/acantilados_de_jahai.png" alt="Acantilados de Jahai" style="width: 100%;">
 
 <p>Situadas entre Vabbi y Kourna, los Acantilados de Jahai han presenciado puntos de inflexión cruciales de la historia de Elona. Ahora las fuertes tormentas de Kralkatorrik y el ejército de Marcados arrasan la tierra, cubriéndola de cicatrices cristalinas.</p>
 
 <h3>Incursión: Táctica del Forjador de Mitos</h3>
 
-<img src="/assets/img/entradas/noticias/tacticas_del_forjador_de_mitos.png" alt="Táctica del Forjador de Mitos">
+<img src="/assets/img/entradas/noticias/tacticas_del_forjador_de_mitos.png" alt="Táctica del Forjador de Mitos" style="width: 100%;">
 
 <p>Zommoros ha mandado una invitación inusualmente graciosa para visitar la Forja Mística. Darse una vuelta por las tesorerías de un djinn excéntrico no puede ser tan arriesgado, pero será mejor que reparéis vuestro equipamiento, por si acaso.</p>
 
 <h3>Conjunto de armadura mejorable</h3>
 
-<a href="/assets/img/entradas/noticias/conjunto_elegiaco_pesado.png"><img src="/assets/img/entradas/noticias/conjunto_elegiaco_pesado.png" alt="Conjunto de armadura mejorable: Pesado" style="width: 150px;display:inline-block;"></a>
-<a href="/assets/img/entradas/noticias/conjunto_elegiaco_mediano.png"><img src="/assets/img/entradas/noticias/conjunto_elegiaco_mediano.png" alt="Conjunto de armadura mejorable: Mediano" style="width: 150px;display:inline-block;"></a>
-<a href="/assets/img/entradas/noticias/conjunto_elegiaco_ligero.png"><img src="/assets/img/entradas/noticias/conjunto_elegiaco_ligero.png" alt="Conjunto de armadura mejorable: Ligero" style="width: 150px;display:inline-block;"></a>
+<a href="/assets/img/entradas/noticias/conjunto_elegiaco_pesado.png"><img src="/assets/img/entradas/noticias/conjunto_elegiaco_pesado.png" alt="Conjunto de armadura mejorable: Pesado" style="width: 200px;display:inline-block;"></a>
+<a href="/assets/img/entradas/noticias/conjunto_elegiaco_mediano.png"><img src="/assets/img/entradas/noticias/conjunto_elegiaco_mediano.png" alt="Conjunto de armadura mejorable: Mediano" style="width: 200px;display:inline-block;"></a>
+<a href="/assets/img/entradas/noticias/conjunto_elegiaco_ligero.png"><img src="/assets/img/entradas/noticias/conjunto_elegiaco_ligero.png" alt="Conjunto de armadura mejorable: Ligero" style="width: 200px;display:inline-block;"></a>
 
 <p>Completad la historia de “Una estrella que nos guía” para empezar a recopilar y mejorar el nuevo conjunto elegíaco, y convertid la compasión en vuestra armadura.</p>
 
 <h3>Refugio del Sol</h3>
 
-<img src="/assets/img/entradas/noticias/refugio_del_sol.png" alt="Refugio del Sol">
+<img src="/assets/img/entradas/noticias/refugio_del_sol.png" alt="Refugio del Sol" style="width: 100%;">
 
 <p>Mejorad esta caverna antigua para convertirla en el refugio perfecto para vuestros aliados. Poneos al día con ellos y puede que tengan información que os lleve a nuevo contenido y recompensas.</p>
 
 <h3>Cetro legendario: Xiuquatl</h3>
 
-<img src="/assets/img/entradas/noticias/xiuquatl.png" alt="xiuquatl">
+<img src="/assets/img/entradas/noticias/xiuquatl.png" alt="xiuquatl" style="width: 100%;">
 
 <p>Este obelisco misterioso acoge a un familiar serpiente con alas que os acompañará fielmente en la batalla.</p>
 
