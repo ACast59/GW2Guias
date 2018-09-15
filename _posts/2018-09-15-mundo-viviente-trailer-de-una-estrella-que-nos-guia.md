@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Mundo Viviente: Trailer de "Una estrella que nos guía""
+title:      "Mundo Viviente: Trailer de Una estrella que nos guía"
 date:       2018-09-15 00:12:00 -0400
 thumbnail:  /assets/img/entradas/noticias/divinitys_reach_celebration_thumbnail.jpg
 image:      /assets/img/entradas/noticias/divinitys_reach_celebration.jpg
