@@ -2411,6 +2411,10 @@ header {
   display: inline-block;
 }
 
+.post-content img {
+  width: 100%;
+}
+
 .post-content img,
 .post-content iframe {
   display: block;
