@@ -26,9 +26,9 @@ hidden:     true
 
 <h3>Conjunto de armadura mejorable</h3>
 
-<img src="/assets/img/entradas/noticias/conjunto_elegiaco_pesado.png" alt="Conjunto de armadura mejorable: Pesado" style="width: 150px;display:inline-block;">
-<img src="/assets/img/entradas/noticias/conjunto_elegiaco_mediano.png" alt="Conjunto de armadura mejorable: Mediano" style="width: 150px;display:inline-block;">
-<img src="/assets/img/entradas/noticias/conjunto_elegiaco_ligero.png" alt="Conjunto de armadura mejorable: Ligero" style="width: 150px;display:inline-block;">
+<a href="/assets/img/entradas/noticias/conjunto_elegiaco_pesado.png"><img src="/assets/img/entradas/noticias/conjunto_elegiaco_pesado.png" alt="Conjunto de armadura mejorable: Pesado" style="width: 150px;display:inline-block;"></a>
+<a href="/assets/img/entradas/noticias/conjunto_elegiaco_mediano.png"><img src="/assets/img/entradas/noticias/conjunto_elegiaco_mediano.png" alt="Conjunto de armadura mejorable: Mediano" style="width: 150px;display:inline-block;"></a>
+<a href="/assets/img/entradas/noticias/conjunto_elegiaco_ligero.png"><img src="/assets/img/entradas/noticias/conjunto_elegiaco_ligero.png" alt="Conjunto de armadura mejorable: Ligero" style="width: 150px;display:inline-block;"></a>
 
 <p>Completad la historia de “Una estrella que nos guía” para empezar a recopilar y mejorar el nuevo conjunto elegíaco, y convertid la compasión en vuestra armadura.</p>
 
