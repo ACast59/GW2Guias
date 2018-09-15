@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Artesanias: Peleteria 0-500"
-date:       2018-09-14 23:45:00 -0400
+date:       2018-09-14 23:58:00 -0400
 thumbnail:  /assets/img/entradas/guias/guia-artesanias-peleteria-0-500_thumbnail.jpg
 image:      /assets/img/entradas/guias/guia-artesanias-peleteria-0-500.jpg
 category:   Guias
