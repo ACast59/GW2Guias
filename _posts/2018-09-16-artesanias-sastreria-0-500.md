@@ -421,6 +421,7 @@ tags:       [Artesanias]
   </ul>
 </li>
 <li>
+<li>
   <span class="uk-bold">Descubre:</span> Manto bordado vital
   <ul>
     <li>Relleno para charretera de yute (1)</li>
