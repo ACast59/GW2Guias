@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Artesanias: Sastreria 0-500"
-date:       2018-09-14 23:07:00 -0400
+date:       2018-09-16 23:07:00 -0400
 thumbnail:  /assets/img/entradas/guias/guia-artesanias-sastreria-0-500_thumbnail.jpg
 image:      /assets/img/entradas/guias/guia-artesanias-sastreria-0-500.jpg
 category:   Guias
