@@ -22,7 +22,7 @@ tags:       [Artesanias, Objetos Ascendidos]
   <tr>
     <td>Berserker</td>
     <td>Zojja</td>
-    <td><img width="18" class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia</td>
+    <td><img width="18" height="18" class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia</td>
     <td><img width="18" class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img width="18" class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad</td>
   </tr>
   <tr>
