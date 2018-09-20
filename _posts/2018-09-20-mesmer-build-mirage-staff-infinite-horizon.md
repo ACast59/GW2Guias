@@ -10,7 +10,7 @@ tags:       [Builds, Mesmer, Mundo Abierto]
 
 <p>El Mesmer Mirage mantiene una excelente supervivencia y daño condicional. Una build con gran rango y muy elusiva perfecta para mundo abierto. Para poder usarla debes tener acceso a expansión Heart of Thorns / Path of Fire.</p>
 
-<div class="content-source"><p><i>Build original por: <a href="https://metabattle.com/wiki/Build:Reaper_-_Power_Minion_Master" rel="nofollow">MetaBattle</a></i>.</p></div>
+<div class="content-source"><p><i>Build original por: <a href="https://metabattle.com/wiki/Build:Mirage_-_Staff/Staff_Infinite_Horizon" rel="nofollow">MetaBattle</a></i>.</p></div>
 
 <h3>Barra de habilidades</h3>
 
