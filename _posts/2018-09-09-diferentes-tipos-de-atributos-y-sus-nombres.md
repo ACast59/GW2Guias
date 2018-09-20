@@ -29,7 +29,7 @@ tags:       [Artesanias, Objetos Ascendidos]
     <td>Zelote (Zealot)</td>
     <td>Guardián (Keeper)</td>
     <td><img style="width:18px!important;height:18px!important;" class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia</td>
-    <td><img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img style="width:18px!important;height:18px!important;" class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
+    <td><img style="width:18px!important;height:18px!important;" class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión y <img style="width:18px!important;height:18px!important;" class="inline-img" src="/assets/img/Poder_de_curacion.png" alt="Poder de curación"> + Poder de curación</td>
   </tr>
   <tr>
     <td>Soldado (Soldier)</td>
@@ -160,7 +160,7 @@ tags:       [Artesanias, Objetos Ascendidos]
   <tr>
     <td>Salteador (Marauder)</td>
     <td>Svaard</td>
-    <td><img style="width:18px!important;height:18px!important;" class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia <br /> <img  class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión</td>
+    <td><img style="width:18px!important;height:18px!important;" class="inline-img" src="/assets/img/Potencia.png" alt="Potencia"> + Potencia <br /> <img style="width:18px!important;height:18px!important;" class="inline-img" src="/assets/img/Precision.png" alt="Precisión"> + Precisión</td>
     <td><img style="width:18px!important;height:18px!important;" class="inline-img" src="/assets/img/Ferocidad.png" alt="Ferocidad"> + Ferocidad y <img style="width:18px!important;height:18px!important;" class="inline-img" src="/assets/img/Vitalidad.png" alt="Vitalidad"> + Vitalidad</td>
   </tr>
   <tr>
